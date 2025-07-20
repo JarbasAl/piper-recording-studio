@@ -1,0 +1,3500 @@
+1	Quero que acendas as luces do salón
+2	Acende a lámpada da entrada
+3	Poderías acender as luces da cociña?
+4	Xa estamos en casa, acende tódalas luces
+5	Por favor, prende a lámpada do despacho
+6	Prende as luces do dormitorio
+7	Podes acender tódalas lámpadas do salón?
+8	Acende as luces do baño
+9	Acende a lámpada
+10	Activa as luces da casa
+11	Prende as luces
+12	Non vexo nada, prende a luz
+13	Está escuro, acende as luces
+14	Ola, acende tódalas luces da casa
+15	Poderías prender a lámpada de lectura?
+16	Acende a luz do salón, que xa está escuro
+17	Prende a luz do despacho, que case non vexo nada
+18	Podes prender as lámpadas?
+19	Prender luces
+20	Acende a luz
+21	Acende as luces, que xa vai noite
+22	Acende as luces, que xa vai ben entrada a noite
+23	Acende as luces
+24	Fágase a luz
+25	Acende as lámpadas
+26	Apaga tódalas luces da vivenda, por favor
+27	Desactiva a lámpada do meu despacho
+28	Faime o favor de apagar tódalas luces acendidas
+29	Quero que apagues as luces da cociña
+30	Podes apagar as luces do baño?
+31	Apaga a lámpada da entrada
+32	Poderías apagar tódalas luces do despacho?
+33	Marcho que teño que marchar, apaga tódalas luces
+34	Desactiva as luces da cociña, queres?
+35	Por favor, apaga a luz da cociña
+36	Apaga a luz do despacho, que xa amenceu
+37	Podes apagar a luz?
+38	Desactiva a lámpada da habitación
+39	Apaga tódalas lámpadas
+40	Apagar luces
+41	Apagar luz
+42	Apaga a luz, que vexo de sobra
+43	Poderías desactivar as luces da cociña?
+44	Gustaríame que apagases tódalas luces
+45	Apaga a lámpada de lectura
+46	Podes apagar tódalas luces da vivenda?
+47	Apaga tódalas luces
+48	Apaga as luces, que xa é día
+49	Ai, apágame as luces!
+50	Apaga a luz
+51	Acende a lámpada vermella
+52	Apaga a lámpada amarela
+53	Pon as luces en modo cine
+54	Activa o modo festa nas luces
+55	Cambia a cor das luces a azul
+56	Cambia o modo das luces a cálido
+57	Acéndeme aí a luz do comedor
+58	Quero que actives o modo cine no salón
+59	Apaga as luces do dormitorio dos nenos
+60	Acende as luces do andadeiro
+61	Desactiva o modo cine
+62	Pon as luces en modo lectura
+63	Activa o modo amencer
+64	Activa as luces en modo amencer
+65	Inicia o modo anoitecer nas luces
+66	Activa o modo luscofusco nas luces do salón
+67	Quero que desactives o modo amencer nas luces
+68	Apaga tódalas luces acendidas
+69	Acende tódalas luces da casa
+70	Apaga as luces do corredoiro
+71	Sube a intensidade das luces no salón
+72	Sube a intensidade desta lámpada
+73	Dálle un toque cálido ás luces
+74	Podes baixar a intensidade das luces acendidas?
+75	Baixa a intensidade das luces
+76	Acende as luces cun ton cálido
+77	Podes darlle ás luces un ton máis frío?
+78	Sube ao máximo a intensidade destas luces
+79	Quero máis luminosidade
+80	Baixa a luminosidade
+81	Dálle máis brillo a esta lámpada
+82	Sube a intensidade das luces do dormitorio das nenas
+83	Baixa a intensidade da lámpada do dormitorio dous
+84	Aumenta a intensidade da luz
+85	Podes subir o brillo destas luces?
+86	Baixa o brillo da luz do despacho
+87	Pon un ton azulado na luz da habitación tres
+88	Quero un ton máis cálido nas luces do salón
+89	Podes cambiar o ton das luces?
+90	Baixa a intensidade das luces e dálle un ton máis amarelo
+91	Sube a luminosidade da lámpada de lectura
+92	Sube o brillo desta lámpada
+93	Quero cambiar o ton das luces
+94	Pon un ton vermello nas luces do despacho
+95	Pon un ton verde nas luces do salón
+96	Quero que baixes a intensidade das luces do piso
+97	Podes subir un anaco a intensidade da luz acendida?
+98	Sube un par de puntos a intensidade da luz do comedor
+99	Ponme un ton máis cálido na lámpada de lectura, queres?
+100	Activa o modo serie na sala da televisión
+101	Poderías acender o calefactor do baño?
+102	Quero que prendas a calefacción do salón
+103	Pon a calefacción
+104	Faime o favor de pór a calefacción a funcionar
+105	Acende os radiadores da casa
+106	Podes acender o radiador da habitación?
+107	Prende a calefacción na vivenda, por favor
+108	Quero que acendas o calefactor da cociña
+109	Podes acender tódolos radiadores?
+110	Activa o radiador do salón
+111	Prende a calefacción
+112	Acende a calefacción na casa
+113	Activa a calefacción, por favor
+114	Poderías acender os radiadores do baño?
+115	Activa os radiadores
+116	Acende os calefactores da casa
+117	Gustaríame que prenderas os calefactores
+118	Prende o radiador, que teño frío
+119	Podes acender a calefacción?
+120	Acender calefacción
+121	Acende, que vai frío
+122	Teño frío
+123	Fai frío na casa
+124	Sube algo a calefacción, que fai un frío que pela
+125	Dálle gas á calefacción
+126	Apaga a calefacción do comedor
+127	Apaga tódolos radiadores
+128	Apaga os calefactores da habitación
+129	Desactiva a calefacción, que xa fai calor
+130	Apaga os radiadores, que xa se está ben
+131	Quero que apagues a calefacción
+132	Podes apagar os radiadores do salón?
+133	Teño calor dabondo, podes quitar a calefacción?
+134	Apagar calefacción
+135	Desactivar radiadores
+136	Apaga os radiadores do salón
+137	Apaga tódolos calefactores
+138	Podes desactivar a calefacción?
+139	Quero que apagues a calefacción, que fai calor
+140	Apaga a calefacción da habitación
+141	Por favor, apaga o calefactor do baño
+142	Faime o favor de apagar a calefacción no salón
+143	Desactiva os radiadores no baño
+144	Quita a calefacción
+145	Desactivar calefacción
+146	Quítame a calefacción
+147	Apaga a calefacción
+148	Apaga os radiadores
+149	Apaga, que teño calor
+150	Apaga a calefacción, que fai calor dabondo
+151	Fai un frío que pela, amigo: pon a casa a vinte e un graos
+152	Configura a temperatura a dezanove graos
+153	Sube a calefacción a vinte e tres graos
+154	Pódesme baixar a calefacción un chisco?
+155	Baixa a calefacción a vinte graos
+156	Acende a calefacción a vinte e catro graos
+157	Podes baixar a calefacción a dezaoito graos?
+158	Baixa o termóstato a vinte graos
+159	Pon o termóstato en vinte e tres graos
+160	Baixa un par de graos o termóstato
+161	Baixa dous graos a calefacción
+162	Sube tres grao a calefacción
+163	Sube un par de graos no termóstato
+164	Podes subir tres graos a calefacción no cuarto das nenas?
+165	Quero que acendas a vinte graos o termóstato do piso
+166	Cambia a temperatura a dezanove graos
+167	Baixa a temperatura a quince graos
+168	Cambia a temperatura no termóstato a vinte e cinco graos
+169	Sube a calefacción no salón un par de graos
+170	Vai acendendo a calefacción nas habitacións a dezanove graos
+171	Acende a calefacción no meu piso a vinte e dous graos
+172	Baixa o termóstato tres graos
+173	Baixa a temperatura da casa aos dezaoito graos
+174	Sube un chisco a temperatura, un par de graos
+175	Sube a temperatura a vinte e catro graos Celsius
+176	Quero que configures o termóstato a vinte e dous graos
+177	Sube dous graos a temperatura na casa
+178	Xa podes apagar o termóstato
+179	Apaga o termóstato da casa
+180	Acende o termóstato a dezanove graos
+181	Programa o termóstato para que suba un par de graos a temperatura
+182	Sube tres graos a temperatura da casa
+183	Sube un grao a temperatura no termóstato
+184	Sube un par de graos a calefacción no aparello este
+185	Xa quentou ben a casa, podes baixar a calefacción
+186	Baixa a temperatura un pouco
+187	Sube un chisco a temperatura no aparatiño ese
+188	Configura a vinte e tres graos a temperatura na habitación
+189	Configura a vinte graos a temperatura na cociña
+190	Pon a habitación a vinte graos
+191	Pon o salón a vinte e un graos
+192	Quero que haxa vinte graos no salón
+193	Quere que haxa vinte e tres graos na casa
+194	Podes pór a casa a vinte graos?
+195	Baixa a temperatura da casa aos vinte e seis graos
+196	Teño calor, baixa a temperatura a vinte e cinco graos
+197	Vai acendendo a calefacción na casa para que cando chegue estea a vinte e dous graos Celsius
+198	Quero ter vinte e catro graos na habitación
+199	Quero que a habitación estea a vinte graos
+200	Acende a calefacción para que o salón estea a vinte e cinco graos
+201	Sube o volume da música, por favor
+202	Sube o volume
+203	Quero máis volume nesta canción
+204	Sube o volume ao sesenta por cento
+205	Dálle voz á música
+206	Sube a tope o volume nesta canción
+207	Sube a música un dez por cento
+208	Súbeme un pouquiño a música
+209	Dálle máis voz á radio
+210	Quero que subas o volume do podcast
+211	Podes subir o volume catro puntos?
+212	Dálle máis voz ao programa de radio, que non escoito nada
+213	Non escoito ben, podes subir o volume?
+214	Sube esta canción, que me encanta
+215	Faime o favor de subir o volume un pouco
+216	Sube a voz un anaquiño
+217	Sube o volume un chisco de nada
+218	Sube un chisco o volume
+219	Dálle gas nesta canción
+220	Baixa un chisco o volume
+221	Dálle un trisco máis de voz
+222	Podes subir o volume outro anaco?
+223	Sube o son ao máximo
+224	Poderías subir a radio ao oitenta por cento?
+225	Baixa o volume, por favor
+226	Baixar volume
+227	Podes baixar o volume da radio?
+228	Baixa o volume á metade
+229	Pon a música ao mínimo
+230	Baixa un anaco a música, por favor
+231	Poderías quitarlle algo de voz ao podcast?
+232	Baixa un trisco o volume da música
+233	Reduce o volume un vinte por cento
+234	Podes baixar o volume cinco puntos?
+235	Baixa o volume da música, que está moi alto
+236	Baixa a música un anaquiño, que vou facer unha chamada
+237	Poderías baixar o son da música?
+238	Báixame un pouquiño a radio, por favor
+239	Reduce o volume da música un trinta por cento
+240	Podes baixarlle un pouco o volume ao reprodutor?
+241	Podes baixar o volume da música ao cincuenta por cento?
+242	Pon o volume da música á metade
+243	Por favor, baixa a radio un corenta por cento
+244	Reduce un dez por cento o volume, queres?
+245	Para a música
+246	Parar música
+247	Quero que pares a reprodución
+248	Detén a reprodución do podcast
+249	Detén a música
+250	Podes parar un momento a canción?
+251	Podes deter un segundo a música?
+252	Por favor, apaga a radio
+253	Apaga a música
+254	Párame aí a música, que teño unha chamada
+255	Para un segundo a radio
+256	Podes parar o podcast?
+257	Detén o capítulo do podcast, por favor
+258	Quero que deteñas a música
+259	Podes parar a canción?
+260	Podes deter a reprodución?
+261	Apágame a radio
+262	Podes apagar a música?
+263	Para esta canción
+264	Detén a canción que está a soar
+265	Prosigue coa reprodución
+266	Pon música
+267	Continúa coa reprodución
+268	Ponme algo de música
+269	Acende a radio
+270	Activa a música, por favor
+271	Podes pór algo de música?
+272	Continúa reproducindo o capítulo que estaba soando
+273	Podes volver a acender a radio?
+274	Activa a radio
+275	Acende de novo a música
+276	Ponme música rock, por favor
+277	Podes poñer algo de música pop?
+278	Quero que poñas a radio
+279	Volve pór música
+280	Por favor, sigue coa música
+281	Pon unha radio de música clásica
+282	Reproduce as cancións máis escoitadas en Galicia
+283	Acende a radio e pon radio galega
+284	Sigue coa reprodución
+285	Cala!
+286	Cala xa
+287	Pecha a boca
+288	Quero que cales
+289	Pon o volume ao máximo
+290	Non escoito nada, dálle máis volume
+291	Quero escoitar algún fado
+292	Pódesme pór música das Tanxugueiras?
+293	Reproduce algunha canción de Fuxan os Ventos
+294	Quero escoitar a Baiuca
+295	Apetéceme escoitar música de Sés
+296	Pon música de Ortiga
+297	Podes pór o derradeiro álbum de Novedades Carminha?
+298	Encántame Luz Casal, ponme algo dela
+299	Reproduce algunha canción de Treixadura
+300	Non me gusta esta canción
+301	Que está a soar?
+302	Gústame moito esta canción, como se chama?
+303	Reproduce algo de Luar na Lubre
+304	Gustaríame escoitar música galega
+305	Apetéceme algo de Dakidarria
+306	Que é isto que está a soar?
+307	Pon algo de Heredeiros da Crus
+308	Para
+309	Segue
+310	Continúa coa canción
+311	Sube o volume ao máximo
+312	Dálle voz nesta canción
+313	Pon a CADENA SER
+314	Ponme a COPE
+315	Ponme na radio a COPE
+316	Pódesme pór Onda Cero?
+317	Sintoniza a SER
+318	Quero escoitar a CADENA CEN
+319	Reproduce radio nacional
+320	Pon o partido do celta na radio galega
+321	Quero escoitar a radio galega
+322	Pon música en Rock FM
+323	Sintoniza KISS FM
+324	Podes pór Radio Marca?
+325	Quero que poñas Radio Marca
+326	Sintoniza na radio: Europa FM
+327	Quero escoitar Onda Cero
+328	Reproduce a SER en directo
+329	Acende a radio galega
+330	Ponme música na Radio Clásica
+331	Ponme música alegre
+332	Pon unha lista de música para facer deporte
+333	Reproduce algo de música tranquila
+334	Pon música para ler
+335	Reproduce algo animado mentres cociño
+336	Pon música de baile
+337	Quero escoitar música de chuvia
+338	Quero escoitar música alegre
+339	Pon música para facer deporte
+340	Reproduce música clásica mentres leo
+341	Podes reproducir unha lista de música popular galega?
+342	Pon música de verbena
+343	Pon música da orquestra Panorama
+344	Ponme unha lista de música da orquestra Panorama
+345	Quero escoitar a París de Noia
+346	Pon música de orquestra
+347	Pon a canción Mentirosa de Ráfaga
+348	Pon unha lista de cumbia
+349	Queremos escoitar música de orquestra
+350	Reproduce Terra das Tanxugueiras
+351	Pon a todo volume a canción Dolores se llamaba Lola dos Suaves
+352	Pon música de Triángulo de Amor Bizarro
+353	Podes pór unha lista das cancións do Xabarín Club?
+354	Pon a canción Galicia caníbal dos Resentidos
+355	Quero escoitar a Carolina Rubirosa
+356	Ponme cancións de Luar na Lubre en aleatorio
+357	Faime o favor de pór Fisterra de Baiuca
+358	Pon o último álbum de Carlangas
+359	Pon Eu chorar Chorei de Ortiga
+360	Queremos escoitar algo de Verto
+361	Pon aí o himno galego
+362	Quero escoitar a canción Negra Sombra
+363	Ponnos aí o último álbum das Tanxugueiras
+364	Ponme a última canción de Carolina Rubirosa
+365	Pon o último disco de Ortiga
+366	Que soe algo de música relaxante
+367	Pon Turnedo de Ivan Ferreiro
+368	Pon unha lista de música galega
+369	Pon algo de música galega
+370	Quero escoitar folk galego
+371	Quero escoitar último disco de Ses
+372	Quero que poñas a canción Cedeira
+373	Quero que poñas Matriarcas de Guadi Galego
+374	Máis volume
+375	Menos volume
+376	Reproduce o himno do Celta
+377	Pon Xirarei de Xil Ríos
+378	Pon música de romaría
+379	Quero escoitar música de festa
+380	Ponme algo de música para pegarlle uns bailes
+381	Pon música de días chuviosos
+382	Ponme algo de Siniestro total
+383	Reproduce unha mestura de artistas galegos
+384	Ponme aí o mellor de Juan Pardo
+385	Podes pór o himno galego?
+386	Baixa o volume da música
+387	Pon música de Xoel López
+388	Pon algo de Sen Senra
+389	Reproduce o último lanzamento de Susana Seivane
+390	Quero escoitar música de Kepa Junquera
+391	Pon música de Carlos Núñez
+392	Reproduce Eu Queríame Casare de Ana Kiro
+393	Pon Carta Aberta de Antía Muíño
+394	Quero escoitar o último disco de Antía Muíño
+395	Pon aí algún tema de Mercedes Peón
+396	Pon música de festa
+397	Pon unha mestura de música galega
+398	Pon a última canción de Catuxa Salom
+399	Pon música da Panorama
+400	Pon música da París de Noia
+401	Pon música dos Rolling
+402	Ponme aos Beatles en aleatorio
+403	Quero escoitar música de Beethoven
+404	Reproduce A Frauta Máxica de Mozart
+405	Ponme o último álbum da Rosalía
+406	Pon Muinheira De Interior de Boyanka Kostova
+407	Reproduce o disco Os Dous De Sempre de Boyanka Kostova
+408	Quero escoitar a Serrat en aleatorio
+409	Reproduce unha lista de música reggae
+410	Pon música dos oitenta
+411	Reproduce unha lista de música dos sesenta
+412	Reproduce algún álbum recompilación dos Piratas
+413	Pon a canción Años Ochenta dos Piratas
+414	Quero escoitar o álbum Lume de Bala
+415	Reproduce Verto en aleatorio
+416	Ponnos aí a canción Non Temos Medo de Ruxe Ruxe
+417	Que soe o primeiro álbum de Bob Dylan
+418	Baixa o volume un quince por cento
+419	Baixa o volume un corenta por cento
+420	Sube o volume ao oitenta por cento
+421	Sube o volume cinco puntos
+422	Dálle un pouquiño máis de voz á radio
+423	Quítalle un anaco de volume ao altofalante
+424	Reproduce aos Rolling Stones
+425	Quero escoitar grandes éxitos de David Bowie
+426	Podes pór algo de Pink Floyd?
+427	Pon os grandes éxitos de Siniestro Total
+428	Acende a radio coa cadena SER
+429	Pon música animada
+430	Podes pór música de concentración?
+431	Quero escoitar cancións de Carolina Rubirosa
+432	Como soan Dios ke te crew?
+433	Reproduce aos Resentidos
+434	Quero escoitar música de Heredeiros da Crus
+435	Reproduce á Banda da Loba
+436	Quero escoitar música de Grande Amore
+437	Ponme algo de Grande Amore
+438	Pon o último disco de Grande Amore
+439	Como soa Chicharrón?
+440	Reproduce algunha canción de Chicharrón
+441	Pon música de Baiuca
+442	Quero escoitar a Terbutalina
+443	Queremos escoitar a Lisdexia
+444	Pon algunha canción de Moura
+445	Pon algo variado de Ortiga
+446	Podes pór o último disco de Terbutalina?
+447	Quero escoitar a Bob Marley
+448	Pon un variado de música reggae
+449	Pon música rock dos sesenta
+450	Reproduce música pop dos noventa
+451	Pon unha canción de Dalsi
+452	Reproduce a lista de música do Radar
+453	Pósme un variado de música rap?
+454	Reproduce música de Zeltia Irevire
+455	Quero escoitar o disco Colaxe
+456	Quero escoitar os Smiths
+457	Ponme música dos Smiths
+458	Pon algo de Oasis
+459	Reproduce a Blur
+460	Pon o primeiro álbum de Patti Smith
+461	Ponme algo de música para estudar
+462	Quero escoitar os éxitos galegos deste ano
+463	Pódesme poñer algunha lista de música pop?
+464	Pon algo de música para durmir
+465	Ponme música relaxada
+466	Non me gusta esta canción, pasa á seguinte
+467	Podes volver reproducir a anterior canción?
+468	Pasa de canción
+469	Seguinte canción
+470	Pasa esta canción
+471	Reproduce esta canción desde o comezo
+472	Volve ao principio desta canción
+473	Dálle para atrás á canción
+474	Seguinte tema
+475	Pasa á seguinte canción
+476	Que pases de canción
+477	Que poñas a seguinte canción
+478	Volve a pór esta canción desde o comezo
+479	Pon a canción desde o comezo
+480	Pon esta canción desde o inicio
+481	Reproduce algunha panxoliña
+482	Pon unha lista de panxoliñas
+483	Quero escoitar algunha panxoliña en galego
+484	Reproduce algún vilancico
+485	Pon unha lista de nadaliñas
+486	Ponme o último vídeo de 'Dígocho Eu'
+487	Subiu algún vídeo novo Esther de 'Dígocho Eu'?
+488	Ponme un disco de grandes éxitos de Queen
+489	Quero escoitar a Antía Muíño
+490	Pon un disco calquera de Julio Iglesias
+491	Quero escoitar algo de Camilo Sesto
+492	Pon música de Radio Futura
+493	Ponme a Nino Bravo
+494	Quero escoitar 'Camino verde' de Los Panchos
+495	Pon unha nana, pero baixiño
+496	Pon unha lista de nanas
+497	Pon cancións de Víctor Jara en aleatorio
+498	Reproduce 'Sugar Man' de Rodríguez
+499	Quero escoitar algunha copla
+500	Pon algo de Manolo Escobar
+501	Reproduce o meu audiolibro
+502	Continúa lendo o libro co que estou agora
+503	Para o audiolibro
+504	Para un intre o audiolibro
+505	Dálle para atrás ao audiolibro
+506	Inicia o audiolibro desde o capítulo anterior
+507	Comeza co audiolibro pero desde o capítulo anterior
+508	Pon o audiolibro
+509	Pon o audiolibro que comecei o outro día
+510	Quero que leas o último libro de Domingo Villar
+511	Reproduce o audiolibro 'O Último Barco' de Domingo Villar
+512	Quero que reproduzas 'O Señor dos Aneis' en audiolibro
+513	Reproduce o audiolibro de 'Que me queres amor?'
+514	Quero escoitar 'Ollos de Auga' de Domingo Villar en formato audiolibro, posmo?
+515	Quero que poñas o audiolibro 'Cousas', de Castelao
+516	Podes ler o primeiro capítulo de 'Follas Novas'?
+517	Reproduce o último audiolibro de Berta Dávila
+518	Quero escoitar o último audiolibro de Manuel Rivas
+519	Pon o audiolibro 'Os Bolechas', de Pepe Carreiro
+520	Ponlle aos meus netos o audiolibro 'Os Megatoxos', de Anxo Fariña
+521	Quero que leas o audiolibro 'O crepúsculo e as formigas', de Méndez Ferrín
+522	Pon o audiolibro da colección de poemas 'Cráter', de Olga Novo
+523	Pódesme pór o audiolibro 'A Esmorga'?
+524	Quero continuar co audiolibro 'Merlín e Familia'
+525	Continúa co último audiolibro de Juan Tallón, por favor
+526	Quero que reproduzas un audiolibro de Emilia Pardo Bazán
+527	Pon o último audiolibro do escritor Manel Loureiro
+528	Quero que continúes con 'Resistencia', o audiolibro de Rosa Aneiros
+529	Inicia a lectura de 'Vento Ferido'
+530	Podes ler desde o segundo capítulo o audiolibro 'Si o vello Sinbad volvese ás illa's?
+531	Pon o audiolibro 'Os fillos do mar' de Pedro Feijoo
+532	Le o que teñas de Manuel Rivas
+533	Continúa co audiolibro 'Assur' de Francisco Narla
+534	Reproduce o libro de Xacobe Pato
+535	Continúa por onde o deixei co audiolibro 'Cans' de Carlos Meixide
+536	Podes ler Infelices de Javier Peña?
+537	Quero que leas 'O lapis do carpinteiro'
+538	Para un anaco a lectura
+539	Continúa coa lectura
+540	Retoma a lectura do audiolibro
+541	Xa escoite dabondo, para un anaco o audiolibro
+542	Para a lectura por hoxe
+543	Podes continuar coa lectura pero desde un par de capítulos atrás?
+544	Retoma a lectura do audiolibro que deixamos o outro día
+545	Deixa de ler
+546	Continúa lendo
+547	Podes empezar a ler o audiolibro 'A praia dos afogados'?
+548	Leme a 'Folla azul', de Andrea Maceiras
+549	Os meus netos queren escoitar o audiolibro 'Chamádeme Sinbad', de Francisco Castro
+550	Le un pouco de 'Cantares Gallegos'
+551	Le algún capítulo dun libro de Rosalía de Castro
+552	Podes ler algún poema de Manuel María?
+553	Leme 'Poemas a Compostela' de Manuel María
+554	Continúa coa lectura de 'Os Biosbardos' de Eduardo Blanco Amor
+555	Sigue coa lectura das 'Mulleres malas'
+556	Comeza coa lectura do libro 'Azucre'
+557	Cóntalle algún conto aos meu netos
+558	Podes contarme un conto?
+559	Cóntame algunha das túas fábulas
+560	Cóntalle unha historia a Bea
+561	Empeza no capítulo anterior
+562	Le desde o anterior capítulo
+563	Seguinte capítulo
+564	Pasa de capítulo
+565	Pasa ao seguinte capítulo
+566	Reproduce este audiolibro desde o comezo
+567	Pon o anterior capítulo
+568	Leme desde o anterior capítulo
+569	Leme xa desde o seguinte capítulo do libro
+570	Comeza coa lectura
+571	Non quero que leas máis
+572	Para de ler
+573	Quero que pares un anaco coa lectura
+574	Pon a lectura en pausa
+575	Para a lectura
+576	Sigue coa lectura
+577	Sigue coa reprodución do audiolibro
+578	Continúa coa reprodución do audiolibro
+579	Para o audiolibro un momento
+580	Sigue co audiolibro
+581	Continúa co audiolibro
+582	Para un anaco o audiolibro
+583	Sigue lendo o audiolibro
+584	Para aí un anaco a lectura do libro
+585	Para por hoxe a lectura
+586	Quero que leas un audiolibro
+587	Empeza a le-lo meu audiolibro
+588	Comeza un novo audiolibro
+589	Comeza a le-lo audiolibro polo capítulo anterior
+590	Leme un pouco
+591	Le 'Unha estrela no vento'
+592	Reproduce o audiolibro 'Non temerás os coches amarelos'
+593	Inicia a lectura do audiolibro 'Enredos', de Manuel García Barros
+594	Ponlles os meus netos o libro 'O corazón de Xúpiter'
+595	Continúa co audiolibro 'Beleza vermella'
+596	Quero que reprodúza-lo audiolibro 'Memoria do silencio', de Eva Mejuto
+597	Ponlles aí o audiolibro 'Os nenos da varíola'
+598	Sigue co libro 'Infamia'
+599	Pon algún poema de Xela Arias
+600	Reproduce 'Tigres coma cabalos', de Xela
+601	Engade: patacas, á lista da compra
+602	Podes engadir pan á lista da compra?
+603	Quero que agregues garavanzos á lista da compra
+604	Engade: ás de polo, á lista da compra
+605	Anota: zancos de pito, na lista da compra, por favor
+606	Quero que anotes na lista da compra cincocentos gramos de cogomelos
+607	Engade á lista da compra cen gramos de queixo
+608	Podes anotarme: cereais, na lista da compra?
+609	Quero que engadas na lista da compra cenorias e allo
+610	Pon: mexillóns, na lista da compra
+611	Podes engadir: ovos e leite, na lista da compra?
+612	Anota que teño que mercar robalos e xoubas, por favor
+613	Ponme na lista da compra un quilo de luras
+614	Engade: un par de allos porros, á lista da compra
+615	Pon que teño que mercar catro xurelos na lista da compra
+616	Engade ao inventario da compra: medio quilo de tomates
+617	Podes agregar: cervexa, ao inventario que teño da compra?
+618	Podes pór no inventario da compra: dous quilos de churrasco?
+619	Agrega: cápsulas de café, ao inventario da compra 
+620	Anota no inventario da compra: azucre e sal
+621	Podes anotar que teño que comprar galletas na lista da compra?
+622	Quedeime sen cenorias
+623	Teño que mercar leituga e tomates
+624	Podes anotar que teño que comprar fabas?
+625	Para comprar, anótame: laranxas e limóns
+626	Teño que comprar mazás, cereixas e peras sen falta
+627	Podes anotar que teño que mercar algo de froita na lista da compra?
+628	Necesito comprar améndoas e noces
+629	Anota aí que preciso dous quilos de fariña
+630	Quedamos sen manteiga, engádeo á lista da compra
+631	Podes anotar que hai que comprar dúas ou tres cabazas na lista da compra?
+632	Lémbrame que teño que mercar améndoas
+633	Engádeme: ananás, á lista da compra
+634	Teño que mercar licor café
+635	Recórdame de comprar augardente para o sábado
+636	Engade: tres cogombros, á lista
+637	Engade tamén un par de cebolas á lista
+638	Hai que mercar feixóns e chícharos
+639	Engade: cervexas, á lista da compra
+640	Lémbrame que hai que comprar deterxente
+641	Engade: chocolate, á lista da compra
+642	Anota que hai que comprar cereixas
+643	Pon na lista da compra: un par de cabaciñas
+644	Hai que comprar patacas
+645	Hai que comprar ovos e leite sen falta
+646	Hai que mercar chourizos, repolos e verzas para o cocido
+647	Temos que comprar costelas de porco para o churrasco
+648	Anota: salsa picante do churrasco, na lista da compra
+649	Non me podo esquecer de comprar un esqueleto de polo para a sopa
+650	Pon tres quilos de patacas na lista
+651	Ola, engade: regar as plantas, na lista de tarefas
+652	Quero que agregues: tomar a pastilla, na lista de tarefas
+653	Podes engadir: chamar os avós, á lista de tarefas?
+654	Anota no inventario de tarefas que teño que sacar o lixo
+655	Teño que chamar ao hotel, engádeo á lista de tarefas
+656	Podes pór na lista de tarefas que teño que recoller os zapatos?
+657	Agrega: poñer unha lavadora, á lista de tarefas
+658	Pon no inventario das tarefas que teño que limpar os cristais da cociña
+659	Poderías anotar que hai que chamar o fontaneiro?
+660	Boas, anota na lista de tarefas que temos que recoller o paquete mañá
+661	Anótame unha cita o xoves vinte e catro ás sete
+662	Engade que teño unha cita no médico o próximo venres ás once
+663	Por favor, engade ao calendario que teño que ir ao médico o próximo luns ás nove
+664	Podes engadirme no calendario que teño que recoller a roupa en dúas semanas?
+665	Quero engadir un evento o mércores quince de agosto co asunto: aniversario primo
+666	Engade un evento mañá ao meu calendario co asunto: partido sobriños
+667	Podes anotar no calendario que en dous venres teño que facer unha analítica?
+668	Gustaríame que me lembres que o último venres do mes teño que pagarlle a meu pai
+669	Lémbrame que o mes que vén teño que facer a matrícula
+670	Anota: veterinario, para o día un de xullo
+671	Crea un evento para recoller a roupa na tinturería o próximo luns
+672	Avísame de que en dúas semanas teño que levar o coche ao taller
+673	Engade ao calendario que hai que pasar a revisión do camión este venres
+674	Créame un evento para dentro dun mes, co tema: comprar libros
+675	Podes crearme un evento para o dezasete de abril?
+676	Crea un evento co asunto: concerto, para este sábado ás dúas
+677	Anótame unha cita co fisioterapeuta para o martes ás dúas
+678	Quero que engadas ao calendario o aniversario da miña prima este venres
+679	Lémbrame que nun par de semanas teño que mercarlle o agasallo a meu pai
+680	Podes lembrarme que o sete de setembro estarán os meus tíos de aniversario?
+681	Agrega: chamar a miña tía ao calendario este martes
+682	Agrega ao calendario que o luns vinte e un teño que pedir cita no salón de peiteado
+683	Podes agregar á lista de tarefas que teño que chamar e cancelar a cita do médico?
+684	Podes agregar ao calendario que o aniversario é o trinta de xuño?
+685	Faime o favor de anotar no meu calendario que teño que ir ás uñas o próximo mércores
+686	Anota aí: cita co podólogo o vindeiro mércores pola tarde
+687	Este martes teño que recoller o resultado das probas, engádeo ao calendario
+688	Ola. Poderías anotar no meu calendario que hai que chamar o pintor?
+689	Engade: cita médica, ao calendario
+690	Engade ao calendario: cita no Sergas este luns ás catro da tarde
+691	Pon un novo evento no calendario para mañá, co tema: cea empresa
+692	Podes avisarme de que este mércores teño que levar a cadela ao veterinario?
+693	Avisa a miña nai de que os martes e os xoves son os días que vén o panadeiro
+694	Podes avisar a meu pai de que chame á consulta mañá?
+695	Anota que mañá teño que pagar á peixeira
+696	Anótame aí que non me esqueza de felicitar mañá a miña irmá
+697	Podes crear un recordatorio para recoller os medicamentos nunha semana?
+698	En tres días é o aniversario da miña neta, anótamo
+699	O xoves comezan as rebaixas, lémbramo, faime o favor
+700	En dúas semanas chega a roupa da nova tempada, lémbrame que chame
+701	Mañá teño que pagar ao panadeiro, non me podo esquecer
+702	O próximo luns teño cita coa traumatóloga
+703	Podes avisarme que o vinte de abril é o aniversario do veciño?
+704	O tres de agosto está de aniversario o meu irmán, faime o favor de lembrarmo
+705	Lémbrame que o trinta de setembro están de aniversario os meus pais
+706	O próximo sábado é o santo do meu neto, podes recordarmo?
+707	O trece de xaneiro teño cita no hospital, anótamo para que non me esqueza
+708	Que non se me esqueza: o vindeiro venres teño que pasar pola farmacia
+709	Recórdalle que nos ten que chamar por teléfono o domingo
+710	Fai o favor, acórdalle que ten que ir mañá recoller os resultados
+711	Podes acordarlle que me chame o mércores despois da revisión?
+712	Anótame aí que os xoves son os días nos que vén o carteiro
+713	Acórdame que en dúas semanas é o cabodano do pai de Luís
+714	Lémbrame que lle colla xoubas ao peixeiro
+715	Garda aí que esta semana teño que mercar parrochas
+716	Podes acordarme que o vindeiro domingo é o santo do meu primo?
+717	Anota que mañá hai que mercar castañas para o magosto
+718	Avísame do santo do Daniel
+719	Acórdame de chamar sen falla mañá ao médico
+720	Acórdame de pasar pola xestoría á primeira hora o luns
+721	Engádeme papel hixiénico á lista da compra
+722	Recórdame que mañá teño que chamar o seguro
+723	Anota na lista de tarefas que hai que ir ao banco o martes para recoller a documentación
+724	Engádeme na lista da compra un par de cartóns de leite de avea
+725	Teño que mercar leite de soia, anótasmo?
+726	Anota un par de cartóns de leite sen lactosa na lista da compra
+727	Recórdame que o luns trinta teño que pasarme pola consulta
+728	Anótame latas de atún e vasiños de arroz na lista da compra
+729	Engade tamén plátanos á lista
+730	Engade á lista de tarefas que hai que pagar á comunidade
+731	Anota aí que hai que comprar pan para conxelar
+732	Engade pan integral á lista
+733	Recórdame que merque bolsas para conxelar
+734	Teño que mercar os xeos para a festa, engádeos á lista
+735	Anota tamén aceite e vinagre na lista
+736	Anota que o nove hai feira
+737	Engade ao calendario: feira para o sábado dezasete
+738	Anota no meu calendario un novo evento: feira o quince en Portomarín
+739	Engade un novo evento no meu calendario
+740	Quero que fagas unha nova entrada no meu calendario
+741	Anota que o venres é o día da feira
+742	Anota: romaría para o xoves que vén
+743	Anota que hai romaría o mércores catorce
+744	Engade un polbo á lista da compra
+745	Ah, e engade tamén pemento á lista
+746	Anota pementa e sal, que estou a quedar sen elas
+747	Anota na lista: ingredientes de cocido, que xa toca
+748	Teño que comprar chourizos, anótamo
+749	Anótame un par de costelas de porco
+750	Preciso cincocentos gramos de carne picada, anótao
+751	Cal é o meu calendario esta semana?
+752	Que teño para estes días?
+753	Cando tiña que recoller a saia na modista?
+754	Cando teño médico?
+755	Canto falta para a cita coa doutora?
+756	Cando é que fai anos a miña sogra?
+757	Que día fai anos a miña sobriña?
+758	Que hai para hoxe?
+759	Hoxe teño algunha tarefa pendente?
+760	Que día tiña que chamar o médico?
+761	Que día é o aniversario do meu irmán?
+762	En que cadra a miña cita no médico esta semana?
+763	Cando tiña eu cita no fisioterapeuta?
+764	Que teño anotado na lista da compra?
+765	Que hai na lista da compra?
+766	Por agora, que temos engadido na lista da compra?
+767	Cando temos veterinario?
+768	Dime que teño hoxe
+769	Dime que me toca mañá
+770	Que tarefas teño mañá?
+771	Que día vén o carpinteiro?
+772	Cando teño que recoller a medicación na farmacia?
+773	Podes lerme a lista da compra?
+774	Le o que hai por agora para mercar
+775	Que temos que comprar?
+776	Que eventos tes anotados para esta semana?
+777	Podes ler os eventos do meu calendario?
+778	Le os eventos
+779	Que teño que facer hoxe?
+780	Sabes se hoxe teño algo?
+781	Oíches?, que teño para mañá?
+782	Dime que temos anotado esta semana
+783	Cando cadra a próxima cita coa médica?
+784	En que cadra o aniversario da miña neta?
+785	Quero saber cando teño que volver a chamar o médico
+786	Que teño que facer mañá?
+787	Que teño no listado da compra?
+788	Sabes que teño anotado para mercar?
+789	Podes lerme o que teño anotado para comprar?
+790	Que eventos teño no meu calendario?
+791	Cando era o cabodano da nai de Cristina?
+792	Que días tes anotado que pasa a froiteira?
+793	Que citas teño esta semana?
+794	En que cadra o Nadal este ano?
+795	De quen é o santo hoxe?
+796	Ti sábesme dicir cando é o santo do meu neto?
+797	Cando é o santo de Xoaquín?
+798	Podes ver que día é San Martín?
+799	Como cae a Semana Santa o próximo ano?
+800	Oíches?, faime o favor de dicirme os meus eventos
+801	Leme a lista da compra
+802	Reproduce a lista da compra
+803	Que teño na lista da compra?
+804	Dime que teño anotado na lista da compra
+805	Di o que teño agora mesmo na lista da compra
+806	Dime que teño anotado para comprar
+807	Vou mercar, que teño na lista?
+808	Vou saír ao supermercado, disme a lista da compra?
+809	Quero que recites a lista da compra
+810	Dime o que temos anotado na lista para a compra
+811	Que teño no calendario de hoxe?
+812	Que eventos teño esta semana?
+813	Leme o que teño hoxe no calendario
+814	Leme o que teño esta semana no calendario?
+815	Teño libre esta fin de semana?
+816	Dime se teño algún evento a fin de semana
+817	Leme os eventos do meu calendario para o mes que vén
+818	Dime o que teño anotado no calendario esta semana
+819	Quero que leas os eventos do meu calendario
+820	Como teño esta fin de semana?
+821	Que teño para esta fin de semana?
+822	Dime o que teño no calendario o xoves seis
+823	Que teño no calendario o martes vinte e catro?
+824	Dime que teño anotado no calendario o venres trinta e un
+825	Que teño no calendario para o sábado que vén
+826	Teño algo o domingo sete de outubro?
+827	Dime se teño libre o dous de xuño
+828	Que teño para o vinte e sete de abril?
+829	Teño algún evento o día seis de febreiro
+830	Leme o que teño anotado para xaneiro
+831	Teño algo anotado no meu calendario para esta semana que entra?
+832	O luns trece, está baleiro no meu calendario?
+833	Teño oco o martes dous de setembro?
+834	Cal é o primeiro día que teño baleiro?
+835	Cando é o primeiro oco no meu calendario?
+836	Que teño o mércores vinte e nove de xullo?
+837	Dime que teño anotado no calendario o sábado trinta e un
+838	Teño algún evento para o dezaseis de xaneiro?
+839	O próximo martes, téñoo baleiro?
+840	Dime que teño anotado o xoves desta semana
+841	Leme o calendario do martes
+842	Quero que leas o calendario do venres
+843	Cal é o meu calendario para o domingo dezasete?
+844	Teño algo o seis deste mes?
+845	Dime o que engadín ao calendario o día nove do mes que vén
+846	Dime o que teño anotado para o próximo venres
+847	Segue baleiro o mércores sete de marzo?
+848	Leme os eventos de abril no meu calendario
+849	Que teño o catro de abril?
+850	Leme os eventos que teño anotados para agosto
+851	Pon unha alarma
+852	Quero que poñas unha alarma para mañá ás sete de mañá
+853	Podes pórme unha alarma hoxe ás cinco da tarde?
+854	Quero que poñas unha alerta para as oito da mañá do próximo luns
+855	Pon unha alerta para dentro de cinco minutos
+856	Avísame dentro de media hora
+857	Podes avisarme en dúas horas?
+858	Pon unha alerta para o sábado ás seis da tarde
+859	Espértame tódolos días ás sete
+860	Ponme unha alerta en media hora para apagar o lume
+861	Quero unha alarma as fins de semana para as nove da mañá
+862	Podes avisarme tódolos domingos ás oito?
+863	Configura unha alarma para as seis e media da tarde
+864	Podes configurar unha alerta en corenta e cinco minutos?
+865	Pon unha alarma tódolos martes ás dúas da tarde
+866	Configura unha alarma os luns e os mércores ás once da mañá
+867	Pon un temporizador de sete minutos
+868	Pon unha conta atrás para dez minutos
+869	Podes pór un temporizador de trinta segundos?
+870	Inicia un temporizador de vinte minutos
+871	Comeza unha conta atrás de oito minutos e trinta segundos
+872	Pon un temporizador para a lavadora de dúas horas
+873	Quero que me levantes ás oito e media os luns, os martes, os mércores e os xoves
+874	Activa unha conta atrás de tres minutos
+875	Temporizador de trinta e cinco minutos
+876	Quero que me avises en dezasete minutos
+877	Alértame en dúas horas
+878	Espértame da sesta ás cinco da tarde
+879	Pon unha conta atrás de oito minutos
+880	Mañá quero que me espertes ás seis e media
+881	Podes pór un temporizador de quince minutos?
+882	Pon un temporizador
+883	Crea unha nova alarma
+884	Avísanos en dúas horas
+885	Podes espertarme da sesta en vinte minutiños?
+886	Necesito unha alarma para os mércores ás nove da mañá
+887	Podes espertarme ás oito e cuarto entre semana?
+888	Necesito un temporizador
+889	Oíches?, ponme unha conta atrás de trinta e cinco minutos
+890	Faime o favor de avisarme dentro de corenta e cinco minutos
+891	Ponme unha alarma mañá ás cinco
+892	Ponme unha nova alarma o martes ás tres menos cuarto
+893	Pon unha alarma ás oito e vinte catro
+894	Quero unha alarma para ás dez as fins de semana
+895	Levántame tódolos días ás seis e corenta
+896	Quero que me espertes entre semana ás oito
+897	Pon unha alarma para as once e media da mañá
+898	Crea unha nova alarma os martes ás catro da tarde
+899	Configura unha alarma
+900	Configura unha nova alarma
+901	Crea unha alarma que me esperte ás sete e corenta e cinco os días entre semana
+902	Créame unha alarma para os venres ás oito e dezasete
+903	Configura unha alarma que soe ás nove da mañá
+904	Pon unha alarma para este xoves
+905	Crea unha alarma para o domingo
+906	Quero unha alarma para os sábados ás nove e vinte
+907	Ponme unha alarma para as catro
+908	Configura unha nova alarma ás seis e media
+909	Engade unha alarma para os luns ás once
+910	Engade unha alarma este mércores á unha
+911	Crea unha alarma para os luns ás nove
+912	Activa a alarma de entre semana
+913	Reactiva as alarmas dos luns e dos martes
+914	Créame unha nova alarma para tódolos días ás cinco e media da tarde
+915	Reactiva a alarma dos sábados á mañá
+916	Crea unha alarma ao mediodía
+917	Configura unha alarma para o almorzo
+918	Crea unha alarma para despois da cea
+919	Configura unha nova alarma para as oito da tarde
+920	Crea unha alarma para o oito de xullo
+921	Configura unha alarma para o vinte de decembro ás once en punto
+922	Crea unha nova alarma para o tres de agosto
+923	Quero que crees unha alarma para o dezaseis de setembro ás nove da mañá
+924	Activa tódalas alarmas dos luns
+925	Activa as alarmas dos venres
+926	Configura unha nova alarma para que soe ás seis e cuarto
+927	Quero unha alarma que me esperte ás sete da mañá, podes configurala?
+928	Configúrame aí unha alarma para os domingos
+929	Crea unha alarma para o dezanove de maio ás doce
+930	Podes configurar unha alarma para alerta para o vinte e oito de novembro?
+931	Pon unha alarma para o catro de abril ás catro da tarde
+932	Activa a alarma das sete da tarde
+933	Volve a activar a alarme das mañás
+934	Pon outra vez a alarma dos luns
+935	Activa a alarma das fins de semana
+936	Engade unha nova alarma para ás dez e trinta e cinco da mañá
+937	Pon unha alarma para o martes cinco ás once e media da noite
+938	Configura unha alarma para o doce de setembro
+939	Pon unha alarma para este mércores trece de agosto ás tres e media
+940	Quero que volva a estar activa a alarma das doce
+941	Engade unha alarma para as dúas e vinte e sete
+942	Nova alarma para os luns ás nove e cincuenta e cinco
+943	Programa unha nova alarma para as dez menos dez
+944	Nova alarma para os días entre semana ás sete menos vinte
+945	Crea unha alarma para as once menos cinco os xoves
+946	Quero unha alarma para a unha e cincuenta e un
+947	Programa unha alarma para as dúas menos trece minutos
+948	Nova alarma para os venres ás doce cincuenta e nove
+949	Programa unha alarma para ás dezaoito e trinta e tres minutos
+950	Crea unha nova alarma para ás vinte e corenta e catro horas
+951	Cancela a alarma
+952	Cancela tódalas alarmas
+953	Cancela a alarma do próximo mércores
+954	Desactiva as alarmas que teño as fins de semana
+955	Cancela o temporizador
+956	Desactiva o temporizador, por favor
+957	Podes parar o temporizador?
+958	Quita tódalas alarmas do luns
+959	Elimina a alarma das seis e media da mañá
+960	Cancela o temporizador da lavadora
+961	Para o temporizador
+962	Poderías eliminar as alarmas que teño polas tardes?
+963	Quita a alarma do domingo ás oito
+964	Podes cancelar o temporizador?
+965	Quero que desactives as alertas que teño pola mañá
+966	Quita as alarmas
+967	Quítame esa alarma, por deus
+968	Xa non necesito a alarma dos luns
+969	As alarmas das fins de semana xa non son necesarias
+970	Quita a conta atrás
+971	Quero que pares a conta atrás activa, podes?
+972	Quítame esta conta atrás
+973	Elimina esa contra atrás
+974	Podes eliminar definitivamente a conta atrás de cinco minutos?
+975	Non quero máis alarmas
+976	Podes desactivar esta alarma?
+977	Apaga o temporizador
+978	Apaga as alarmas
+979	Apaga a alarma dos luns ás nove
+980	Desactiva a alarma dos venres
+981	Quita esa alarma
+982	Apaga a alarma
+983	Apaga esa alarma
+984	Cancela esa alarma, por deus
+985	Fai calar a esa alarma!
+986	Quítame a alarma de entre semana
+987	Xa non necesito a alarma da mañá
+988	Xa non preciso o aviso dos venres, quítao
+989	Xa non quero unha alarma ás nove
+990	Quítame a alarma das fins de semana
+991	Desactiva a alarma de primeira hora
+992	Desactiva a alarma das fins de semana
+993	Desactiva a alarma dos luns, por favor
+994	Quero que elimines a alarma dos domingos
+995	Para esa alarma
+996	Para a alarma que está a soar
+997	Por deus bendito, quita esa alarma
+998	Xa non quero que me espertes os martes ás sete e media
+999	Podes quitar a alarma dos sábados?
+1000	Non me espertes máis a esa hora
+1001	Quita a alarma das mañás
+1002	Quítame o temporizador que teño activo
+1003	Fai calar a alarma que soa
+1004	Quítame esa alarma, por favor cho pido
+1005	Cancela a alarma das oito e cuarto
+1006	Que cale esa alarma!
+1007	Cancela a alarma que tiña para o sete de marzo
+1008	Xa non necesito a alarma dos luns, páraa
+1009	Pausa a alarma dos martes
+1010	Pausa a alarma dos mércores
+1011	Quita a alarma das fins de semana
+1012	Pausa a alarma do luns
+1013	Quero que deixe de soar a alarma de entre semana
+1014	Elimina a alarma que teño configurada para o primeiro de abril
+1015	Podes borrar a alarma que tiña configurada para o día dez de decembro?
+1016	Polo de agora, pausa a alarma que teño tódolos días ás sete e media
+1017	Fai que xa non soe o aviso das nove e cuarto da tarde
+1018	Fai que deixe de soar a alarma dos xoves
+1019	Non quero que soe máis a alarma dos venres
+1020	Quita tódalas alarmas
+1021	Elimina tódalas alarmas
+1022	Pausa tódalas alarmas de entre semana
+1023	Desactiva as alarmas que hai configuradas
+1024	Pausa tódalas alarmas, por favor
+1025	Silencia tódalas alarmas
+1026	Fai que se silencien as alarmas
+1027	Quita a alarma do martes que vén
+1028	Elimina a alarma que soaría o trinta e un de agosto
+1029	Xa non preciso da alarma do martes trinta de setembro
+1030	Podes desactivar as alarmas dos luns, os martes e os mércores?
+1031	Cancela a alarma das e cincuenta e tres
+1032	Cancela a alarma que teño ás e media
+1033	Cancela a alarma dos sábados ás once e cincuenta e seis
+1034	Eliminar unha alarma
+1035	Elimina a alarma que soa ás catorce horas
+1036	Elimina as alarmas que teño os sábados e os domingos pola mañá
+1037	Elimina as alarmas que tiña configuradas os martes pola tarde
+1038	Cancela as alarmas que teño programas os mércores e os xoves ás dezasete horas
+1039	Quero que elimines as alarmas dos venres pola mañá
+1040	Podes eliminar unha alarma varios días?
+1041	Quita a alarma que teño programada para dentro dunha hora
+1042	Quita a alarma que tiña programada para o mércores oito ás dezanove horas
+1043	Manda esa alarma ao carallo
+1044	Elimina a alarma que soa, hostia xa!
+1045	Que canceles a maldita alarma
+1046	Xa non necesito a alarma dos mércores e venres ás cinco e media da tarde
+1047	Quita a alarma para mañá ás seis e doce minutos da mañá
+1048	Cancela tódalas alarmas que teño configuradas entre semana
+1049	Ou cancelas esa alarma ou te tiro pola ventá
+1050	Deus bendito, fai calar esa alarma do carallo!
+1051	Vai chover hoxe?
+1052	Que temperatura vai facer esta semana?
+1053	Quero saber o tempo de hoxe
+1054	Cal será a temperatura hoxe ao medio día?
+1055	Que tempo vai facer en Vigo esta fin de semana?
+1056	Dan tormenta en Santiago durante a semana?
+1057	Dime o tempo na Guarda o xoves que vén
+1058	Que tempo teremos na Coruña mañá?
+1059	Que temperatura fará en Ourense a fin de semana?
+1060	Teño que levar un chuvasqueiro a Ferrol mañá?
+1061	Necesitarei chaqueta que abrigue mañá en Lugo?
+1062	Dan moita calor en Ponteareas esta semana?
+1063	Quero saber se no Grove choverá hoxe e mañá
+1064	Choverá algo en Pontevedra hoxe?
+1065	Podes confirmarme se dan malo en Muxía este venres?
+1066	Dan bo en Portomarín este mércores?
+1067	Fará moita calor en Paradela a próxima semana?
+1068	Quero saber se en Tui vai chover durante esta semana
+1069	Fará bo en Verín durante a fin de semana?
+1070	Dáme o tempo en Viveiro para o luns e o martes, por favor
+1071	Que tempo dan en Monforte de Lemos mañá?
+1072	Como vai estar a cousa en Fisterra mañá pola tarde?
+1073	Como vai estar o día en Betanzos?
+1074	Dime o tempo no Porriño esta semana
+1075	Dan bo tempo en Combarro mañá?
+1076	Cal vai ser o tempo en Ribadeo?
+1077	Quero saber o tempo en Mondoñedo, por favor
+1078	Faime o favor de dicirme o tempo en Oia
+1079	Cando vai chover en Muros?
+1080	Cando subirán as temperaturas en Noia?
+1081	Que mínimas dan en Cangas esta semana?
+1082	Fará frío mañá en Barro?
+1083	Dime as máximas en Castro Caldelas para o venres
+1084	Fará frío hoxe en Narón?
+1085	Sabes se poderemos ir á praia en Redondela esta fin de semana?
+1086	Chove agora mesmo en Oleiros?
+1087	Como estará o tempo mañá en Vilagarcía de Arousa?
+1088	Que temperaturas haberá mañá en Lalín?
+1089	Chove en Poio?
+1090	Como está a cousa na Estrada hoxe?
+1091	Fai calor en Sada agora mesmo?
+1092	Hai néboa en Mos?
+1093	Cando despexará en Verín?
+1094	Hoxe pola noite refresca no Barco de Valdeorras?
+1095	Dime o tempo en Sarria
+1096	Esta semana choverá en Bueu?
+1097	Quero saber o tempo en Foz
+1098	Que tempo fai en Tomiño?
+1099	Fará sol en Burela?
+1100	Cando sairá o sol en Porto do Son?
+1101	Chove en Chantada?
+1102	Queremos saber o tempo en Celanova esta semana
+1103	Sabes se vai chover esta tarde?
+1104	Dan bo hoxe?
+1105	Dan malo mañá?
+1106	Que tempo dan para a fin de semana?
+1107	Terei que coller a chaqueta para hoxe pola tarde?
+1108	Poñemos sombreiro para hoxe ou dan nubrado?
+1109	Sairá o sol hoxe pola tarde?
+1110	Dime se sairá o sol en Padrón
+1111	Que días chove esta semana?
+1112	Para cando dan choiva?
+1113	Sabes se vai parar de chover nalgún momento do día?
+1114	Poderei tender a roupa nalgún momento da tarde?
+1115	Terei que coller paraugas hoxe?
+1116	O día está nubrado, collo ou non collo paraugas?
+1117	Fará bo día para ir andando mañá?
+1118	Cando parará de chover?
+1119	Cando soben as temperaturas?
+1120	Baixan moito as temperaturas esta semana?
+1121	Están caendo chuzos de punta, cando parará?
+1122	Teremos treboadas esta tarde?
+1123	Sabes se despexará a brétema na praia para a tarde?
+1124	Desaparecerá a borraxeira para o serán de hoxe?
+1125	Estou ata as orellas de tanta choiva, cando vai parar?
+1126	Que día desta semana fará sol?
+1127	Cando escampará?
+1128	Sabes se esta semana teremos orballeira?
+1129	Cando comezan as xeadas pola noite?
+1130	Onde dan neve esta fin de semana en Ourense?
+1131	Esta semana, nevará ou será auganeve?
+1132	Quero saber se esta neboeira despexará nalgún momento do día
+1133	Parece que entra tormenta, haberá tronos e raios?
+1134	Teremos lóstregos esta noite?
+1135	Leva todo o día chovendo sen amizar, cando delampará?
+1136	Vai albadear hoxe ou mañá na costa?
+1137	Que día chegará a tempestade?
+1138	Precisarei do paraugas hoxe?
+1139	É preciso que saia con paraugas de casa?
+1140	Que día amaina o temporal?
+1141	Dan chuvia?
+1142	Choverá hoxe?
+1143	E hoxe ten previsto chover?
+1144	Sabes se dan chuvias pola tarde?
+1145	Pola mañá fará bo tempo?
+1146	Cando veñen as choivas?
+1147	Necesito paraugas hoxe?
+1148	Poderei tender fóra mañá?
+1149	Collo ou non collo o chuvasqueiro?
+1150	A que hora parará de chover?
+1151	Cal é a previsión meteorolóxica?
+1152	Dan vento hoxe?
+1153	A que hora vai chover?
+1154	Que temperatura fai?
+1155	Fai frío?
+1156	Está a chover?
+1157	Que tempo vai facer en Galicia?
+1158	Dime o tempo en Galicia
+1159	Dime o tempo en Galiza esta semana
+1160	Haberá orballo ao amencer?
+1161	Como vai estar o tempo en Ames estes días?
+1162	Dan choiva pola tarde?
+1163	Quero saber o tempo
+1164	Cales son as temperaturas máximas para hoxe?
+1165	Fará moita calor mañá?
+1166	Pódesme dicir as mínimas na Cañiza a fin de semana?
+1167	Que mínimas dan para esta tarde?
+1168	Que tempo vai facer en Arzúa?
+1169	Haberá algo de orballo pola mañá cedo?
+1170	Cantos graos temos agora?
+1171	Que temperatura fai agora?
+1172	Como está o tempo en Cedeira?
+1173	Dan choiva no Rosal?
+1174	Cando escampa en Rivadavia?
+1175	Esta fin de semana dan bo na Illa de Arousa?
+1176	Que tempo dan en Culleredo?
+1177	Cal é o tempo en Cambre?
+1178	Dime o tempo en Noia
+1179	Dime que tempo vai facer en Fene
+1180	Quero saber que tempo vai facer en Sada
+1181	Dime o tempo que fará esta semana en Rianxo
+1182	Dime o tempo en Muros
+1183	Vai chover en Padrón?
+1184	Cales van ser a máximas en Pontedeume?
+1185	Dime o tempo en Vigo
+1186	Dime o tempo en Redondela
+1187	Quero saber o tempo en Cangas
+1188	Dime o clima en Marín
+1189	Chove en Lalín?
+1190	Que tempo vai facer hoxe en Moaña?
+1191	Dime o tempo en Sanxenxo
+1192	Que frío fai no Grove?
+1193	Quero que me digas o tempo desta semana en Salvaterra do Miño
+1194	Dime o tempo no Carballiño
+1195	Dime as máximas desta semana en Verín
+1196	Estará despexado no Barco de Valdeorras?
+1197	En Xinzo de Limia, que tempo vai?
+1198	Que tempo vai en Celanova?
+1199	Quero saber o tempo en San Cibrao das Viñas
+1200	Dime se hoxe hai néboa en Ribadavia
+1201	Fai sol en Allariz?
+1202	Dime o tempo que vai en Barbadás
+1203	Vai frío en Lugo?
+1204	Dime o tempo en Monforte de Lemos
+1205	Como vai o tempo en Viveiro?
+1206	Chove en Sarria?
+1207	Quero saber o tempo en Meira
+1208	Quero saber as temperaturas en Burela
+1209	Dime as mínimas de Chantada
+1210	Que tempo vai en Guitiriz?
+1211	Dan bo esta semana en Vilalba?
+1212	Dime o tempo en Mondoñedo
+1213	Dime o tempo que irá esta fin de semana
+1214	Dime o tempo que vai agora en Pontevedra
+1215	Quero que me digas o tempo en Becerreá
+1216	Que tempo vai?
+1217	Dime o tempo que vai agora mesmo
+1218	Quero saber que tempo vai
+1219	Dime o clima de hoxe
+1220	Quero saber as mínimas aquí
+1221	Dime se chove
+1222	Hoxe vai chover?
+1223	Dime o tempo
+1224	Hoxe teño que coller paraugas?
+1225	Mira unha cousa, levarei paraugas?
+1226	Superaranse os vinte graos na Pobra do Brollón?
+1227	Dime o tempo en Antas de Ulla
+1228	Quero saber o tempo en Láncara
+1229	Vai baixar dos cero graos no Incio?
+1230	Hoxe teremos máis de quince graos por aquí?
+1231	Dime cal é a previsión meteorolóxico na Pontenova
+1232	Quero saber a previsión do tempo en Carballedo
+1233	Fará moito frío hoxe en Vilariño de Conso?
+1234	Que tempo vai en Fornelos de Monte?
+1235	Dime o tempo que se espera mañá nas Neves
+1236	Dime se mañá choverá en Boimorto
+1237	Choverá algún día desta semana en Ordes
+1238	Superaranse hoxe os trinta graos en Zas?
+1239	Quero saber que temperatura máxima se espera mañá en Santa Comba
+1240	Hoxe chegaremos aos vinte graos en Meaño?
+1241	Dime o tempo en Arteixo
+1242	Como vai estar a cousa o martes en Cariño?
+1243	Que tempo se espera o mércores nas Nogais?
+1244	Vai facer tempo de praia en Porto do Son?
+1245	Cales son as máximas en Ribeira para hoxe?
+1246	Dime o tempo en Lobios
+1247	Teño que coller chaqueta para mañá en Baños de Molgas?
+1248	Dime a previsión desta semana en Laza
+1249	Cal vai ser o tempo o sábado en Bande?
+1250	Fará bo tempo o domingo na Pobra do Caramiñal?
+1251	Cando haberá lúa chea?
+1252	Dime en que día do mes cadra a lúa chea
+1253	Teño que podar, cando hai lúa minguante?
+1254	Que días teremos lúa crecente?
+1255	Quero saber cando é lúa nova en Silleda
+1256	Cando hai lúa nova este mes?
+1257	Este mes, cando cadra a lúa chea?
+1258	Faime o favor, dime que día teremos a lúa chea
+1259	Cando vén lúa vella, que hai que cortar o castiñeiro
+1260	Cando é o plenilunio?
+1261	Cando é a lúa chea en Camariñas?
+1262	Esta noite haberá lúa chea en Vilardevós?
+1263	Di cando se chegará a cuarto crecente este mes
+1264	Quero saber cando haberá lúa nova
+1265	Como cadra a lúa vella?
+1266	Esta noite haberá lúa?
+1267	Que lúa temos hoxe?
+1268	Quero saber as fases lunares deste mes
+1269	Cando empeza a lúa enchente?
+1270	Quero saber cando é o plenilunio
+1271	Hoxe en Valga, que lúa haberá?
+1272	Quero saber como vai estar a lúa esta noite
+1273	Estamos en lúa crecente ou lúa minguante?
+1274	Quero saber o estado da lúa
+1275	Que lúa vai hoxe?
+1276	Quero saber a lúa que hai para podar
+1277	Cando é o cuarto crecente da lúa?
+1278	Dime como cadra o cuarto crecente este mes
+1279	Cando é o cuarto minguante?
+1280	Que día chegamos á lúa chea?
+1281	Di que día se chega ao plenilunio
+1282	Dime as datas das fases lunares deste mes
+1283	Dime a data na que terei lúa nova
+1284	Cando é o novilunio?
+1285	Hoxe hai lúa vella?
+1286	Esta noite, que lúa vai?
+1287	Esta noite hai lúa chea?
+1288	Dime a lúa que haberá esta noite
+1289	Que lúa haberá mañá?
+1290	Dime a fase actual da lúa
+1291	Esta noite poderase ver a lúa?
+1292	Esta noite que lúa temos?
+1293	Cando chega a lúa chea?
+1294	Hoxe hai lúa nova?
+1295	Dime a lúa que hai esta noite
+1296	Que lúa haberá o domingo?
+1297	A noite de que día hai lúa chea?
+1298	Cando empeza a lúa minguante?
+1299	Que día da semana que vén é a lúa vella?
+1300	Dime o día que se espera que haxa lúa nova
+1301	Que hora é?
+1302	Dime que hora é
+1303	Que hora vén sendo?
+1304	Dime a hora
+1305	Dime a hora actual
+1306	Quero saber a hora
+1307	Sabes que hora é?
+1308	Quero saber que hora é
+1309	Di a hora
+1310	Dime a hora nas Azores
+1311	E que hora ven sendo agora mesmo?
+1312	Que hora tes?
+1313	Pódesme dicir a hora?
+1314	Oíches?, que hora tes?
+1315	Que horas son?
+1316	Non sei que hora é
+1317	Dinos a hora
+1318	Dime a hora que é
+1319	Di a hora que é
+1320	Quero que digas que hora é
+1321	Que hora é en Nova York?
+1322	Dime a hora en Londres
+1323	Cal é a hora local en París?
+1324	Di a hora local en Tokio
+1325	Quero que digas a hora en Los Ángeles
+1326	Cal é a hora actual en México?
+1327	Quero saber a hora en San Petersburgo
+1328	Dime a hora local en Roma
+1329	Que hora é en Bélxica?
+1330	Que hora teñen en Irlanda?
+1331	Dime a hora en Ucraína
+1332	Que hora é en Lisboa?
+1333	Dime a hora en Dinamarca
+1334	Que hora é en Bos Aires?
+1335	Que hora teñen en México?
+1336	Dime a hora en Cuba
+1337	Quero saber o horario en Arxentina
+1338	Que hora vén sendo en Perú?
+1339	Dime a hora local en Xamaica
+1340	Dime a hora en Marrocos
+1341	Que hora teñen agora mesmo en Exipto?
+1342	Dime a hora en Suráfrica
+1343	Que hora é no Cairo?
+1344	Di a hora en Hong-Kong
+1345	Dime a hora local en Sidney
+1346	Que horario ten Australia?
+1347	Dime a hora local en Xapón
+1348	Di a hora en Nova Zelandia
+1349	Quero que digas que hora teñen en Vietnam
+1350	Dime a hora na India
+1351	A que hora amence mañá?
+1352	Dime a que hora sairá o sol mañá
+1353	A que hora amence en Santa Comba?
+1354	Como coincide a posta do sol en Vimianzo?
+1355	Cando é o luscofusco en Fisterra?
+1356	A que hora é o atardecer en Fisterra mañá?
+1357	A que hora sae o sol mañá?
+1358	A que hora amence na Fonsagrada?
+1359	Quero saber a que hora é a posta do sol en Oia
+1360	Cando se pon o sol en Nigrán?
+1361	A que hora sae o sol mañá en Lousame?
+1362	Quero saber a hora a que vai amencer
+1363	A que hora se fai de noite?
+1364	Cando é a posta do sol en Sanxenxo?
+1365	A que hora vai amencer mañá en Pontevedra?
+1366	Dime a hora a que vai saír o sol mañá
+1367	Cando é a posta do sol en Carnota?
+1368	Dime a que hora se fará de día na Laracha
+1369	A que hora amence en Malpica de Bergantiños?
+1370	Mañá queremos ver a posta de sol en Muros, a que hora será?
+1371	A que hora sae o sol nesta zona?
+1372	A que hora se pon o sol nesta zona?
+1373	Dime a hora á que sae o sol nesta zona
+1374	Dime a hora á que se pon o sol nesta zona
+1375	A que hora sae o sol nos Ancares?
+1376	Como cadra a posta de sol mañá en Fisterra?
+1377	Dime a hora na que se pon o sol nas Cíes
+1378	A que hora amence nas Cíes
+1379	Dime a hora na que sae o sol mañá na Illa de Ons
+1380	Mañá queremos ver o amencer desde as Illas Cíes, sobre que hora será?
+1381	A que hora é a posta do sol nesta época do ano en Ons?
+1382	Dime a hora á que se pon o sol en Fisterra nesta época do ano
+1383	A que hora amence en Pontevedra?
+1384	Dime a hora na que amence na Coruña
+1385	A que hora cadra a posta do sol mañá na Coruña?
+1386	Cando cadra o luscofusco mañá?
+1387	Como cadra o luscofusco hoxe?
+1388	Dime a que hora é o atardecer
+1389	Dime a hora do amencer
+1390	Dime a hora do atardecer
+1391	Dime a hora da saída do sol
+1392	Dime a hora da posta do sol
+1393	Dime a hora do serán
+1394	A que hora é o serán hoxe?
+1395	A que hora escurece hoxe?
+1396	Cando escurece en Muxía?
+1397	Como cadrará o serán hoxe?
+1398	Quero saber a que hora empeza a posta de sol
+1399	Quero que me digas a que hora é o atardecer
+1400	Cando será o atardecer mañá?
+1401	A que hora teremos marea alta hoxe en Cedeira?
+1402	Cando vai baixar a marea?
+1403	Dime a que hora é a marea alta
+1404	Cando é a marea chea?
+1405	Esta tarde, a que hora é a marea libre?
+1406	Hoxe como cadra a marea baixa?
+1407	Como cadra hoxe a marea alta?
+1408	Cando é a preamar?
+1409	A que hora é esta tarde a baixamar?
+1410	Dime as horas da preamar
+1411	Di a hora de preamar
+1412	Di a que hora cadra a preamar
+1413	Cando é a primeira preamar de hoxe?
+1414	Quero saber a hora da baixamar en Muxía
+1415	Cando é a baixamar no Grove?
+1416	Dime a hora da baixamar en Samil
+1417	A que hora chega a marea alta á praia Boca do Río?
+1418	Di cando é a preamar
+1419	Di cando é a baixamar
+1420	Dinos a hora na que será a primeira baixamar
+1421	Quero saber a hora da baixamar
+1422	Como está a marea agora mesmo?
+1423	Que marea hai nestes intres?
+1424	Xa está a marea baixa?
+1425	Xa estamos en baixamar?
+1426	Xa hai preamar?
+1427	Está a subir a marea?
+1428	Está a subir ou a baixar a marea?
+1429	A marea sobe ou baixa agora mesmo?
+1430	Está subindo xa a marea?
+1431	A marea está baixando?
+1432	A marea está a subir?
+1433	Chegouse xa a preamar?
+1434	Dáme información da marea
+1435	Dá a información das mareas
+1436	Como cadran as mareas hoxe?
+1437	Dime a que hora cadra cada marea hoxe
+1438	Quero a información das mareas
+1439	Información das mareas
+1440	Información da marea alta
+1441	Dá a información da preamar
+1442	Dá a información da marea baixa
+1443	A que hora cadra a marea chea?
+1444	Di a hora da marea chea pola tarde
+1445	Información da marea libre
+1446	Quero a información da marea alta na Lanzada
+1447	Cando cambia a marea en Carballo?
+1448	Di a hora da marea alta en Outes
+1449	A que hora é o cambio de marea?
+1450	Quero saber a hora das mareas de hoxe
+1451	Ola, quero ver o rexistro de glicosa do domingo pasado
+1452	Gustaríame comprobar as miñas medidas de glicosa
+1453	Podo consultar o azucre en sangue?
+1454	Quero que mires os datos de azucre que rexistrei esta semana
+1455	Boas, dime a glicosa que rexistrei o xoves e o venres
+1456	Podes ensinarme o meu nivel de glicosa de onte?
+1457	Mírame cales son os valores de azucre no sangue que anotaches esta semana
+1458	Como vou do azucre no sangue?
+1459	Pódesme dicir a glicosa que teño hoxe?
+1460	Amósame os rexistros de azucre desta semana, grazas
+1461	Podes ver cales foron os meus valores de presión sanguínea esta semana?
+1462	Quero saber que presión sanguínea tiven o luns da semana pasada
+1463	Dime a presión arterial rexistrada
+1464	Faime o favor de buscar os datos da miña tensión sistólica desta semana
+1465	Consúltame aí a presión arterial do martes
+1466	A semana pasada, que frecuencia arterial tiven de media?
+1467	Axúdasme a saber o rexistro de presión sanguínea que tiven estes días?
+1468	Cal foi a miña presión sanguínea hoxe?
+1469	Como vou da tensión?
+1470	Quero ver os rexistros da tensión, por favor
+1471	Como me deu onte a saturación de osíxeno?
+1472	Como podo saber os datos de saturación de osíxeno da semana pasada?
+1473	Quero saber a miña saturación de onte e antonte
+1474	A canto chegou o mércores a miña saturación de osíxeno?
+1475	Por favor, ensíname os rexistros de saturación de osíxeno
+1476	Como tiven este martes a saturación de osíxeno?
+1477	Dime como me saíu o osíxeno en sangue o xoves pasado
+1478	Canto tiven de saturación onte?
+1479	Dime o nivel de saturación que che dixen onte
+1480	Podes consultarme que valores teño gardados esta semana de saturación de osíxeno?
+1481	Cal era a miña frecuencia cardíaca?
+1482	Como me está a funcionar o corazón esta semana?
+1483	Podes consultar os meus datos de ritmo cardíaco?
+1484	Cal foi o meu nivel de pulsacións por minuto?
+1485	A semana pasada, que frecuencia cardíaca rexistraches?
+1486	Consulta os meus datos de ritmo cardíaco
+1487	Cantos latidos por minuto che dixen o sábado?
+1488	Que valores de latidos por minuto tes rexistrados para o luns?
+1489	Quero que me digas a frecuencia cardíaca para revisala
+1490	Para a frecuencia cardíaca, que tes anotado?
+1491	Quero ver as medidas que teño rexistradas
+1492	Dime as medidas que anotaches esta semana
+1493	Dime as medidas que che dei onte
+1494	Quero saber que medidas che dei onte
+1495	Recítame as medicións que tes anotadas hoxe 
+1496	Dime os datos de saúde que anotaches hoxe
+1497	Quero repasar as medidas de saúde
+1498	Quero que repasemos a recollida de datos de onte
+1499	Pódesme dicir que mediches antonte?
+1500	Dime as medidas de saúde desta semana, por favor
+1501	Dime os datos que teño rexistrados
+1502	Dime os datos médicos que tes gardados
+1503	Quero que digas os datos médicos gardados nestes días
+1504	Que medidas gardaches estes días?
+1505	Dime as miñas medidas dos últimos días
+1506	Leme as medidas médicas que tes gardadas
+1507	Leme os datos rexistrados desde o luns
+1508	Di os datos médicos que tes rexistrados de hoxe
+1509	Que datos rexistraches onte?
+1510	Dime o datos que gardaches estes últimos días
+1511	Cales son as medidas indicadas hoxe?
+1512	Cales son os datos médicos que anotaches onte?
+1513	Por favor, podes ensinarme os datos médicos anotados?
+1514	Que medida tes anotada para tensión arterial?
+1515	Quero ver a tensión arterial rexistrada hoxe
+1516	Dime a porcentaxe de osíxeno no sangue que tes anotada, por favor
+1517	Cal é a medida de saturación de osíxeno que tes rexistrada?
+1518	Cal foi a cantidade de urina recollida de onte?
+1519	Pódesme dicir a cantidade de urina recollida nas últimas vinte e catro horas?
+1520	Canto mexei onte?
+1521	Dime o que mexei onte
+1522	Cantos mililitros ouriñei hoxe?
+1523	E canto mexei pola mañá?
+1524	Dime que mexei onte pola tarde
+1525	Di a mexa que recollín onte
+1526	Ensíname os datos médicos anotados hoxe
+1527	Ensíname as medidas que tes rexistradas hoxe
+1528	Pódesme ensinar os datos anotados
+1529	Quero saber a cantidade de urina que tes anotada de hoxe
+1530	Dime a tensión arterial sistólica anotada
+1531	Cal é a tensión alta que indiquei antes?
+1532	Cal é a porcentaxe de osíxeno no sangue que indiquei pola maña?
+1533	Cales son os meus datos de sono?
+1534	Que datos de sono tes rexistrados?
+1535	Di os meus datos de sono
+1536	Quero sabe-los datos de sono que tes rexistrados aí
+1537	Dime os datos de sono que gardaches
+1538	Quero saber que rexistraches para o sono
+1539	Di os meus datos rexistrados de onte
+1540	Quero que díga-los datos médicos gardados hoxe
+1541	Di os meus datos rexistrados hoxe
+1542	Como durmín onte?
+1543	Di os datos de sono
+1544	Quero que díga-los datos médicos rexistrados para a urina
+1545	Que datos tes rexistrados en canto ao peso?
+1546	Di que peso gardei onte
+1547	Dime o que peso que tes anotado de onte
+1548	Quero sabe-lo dato rexistrado de peso
+1549	Canto pesaba fai unha semana?
+1550	Canto pesei o mes pasado?
+1551	Quero rexistrar o azucre que tiven hoxe na proba
+1552	Ola, o meu valor de azucre en sangue hoxe é de noventa e nove
+1553	Na proba de hoxe deume que teño cento dous miligramos por decilitro de glicemia
+1554	Acabo de medir cento vinte de glicemia, podes anotarmo?
+1555	Quero que rexistres que acabo de medir noventa e cinco miligramos para o azucre en sangue
+1556	Hoxe deume que teño cento corenta e cinco miligramos por decilitro para a glicosa
+1557	Gustaríame engadir o meu resultado de glicosa
+1558	Apunta no rexistro que hoxe teño cento cincuenta de glicosa
+1559	Pódesme rexistrar que o azucre en sangue é de cento corenta e seis miligramos?
+1560	A miña glicosa en sangue hoxe é de cento sesenta e seis miligramos
+1561	Almacena o valor de tensión arterial rexistrado
+1562	Necesito que gardes o valor de hoxe para a presión arterial
+1563	Anota aí que hoxe teño cento quince de presión arterial
+1564	Teño unha presión sistólica de cento vinte
+1565	Podes rexistrarme o valor de presión sanguínea?
+1566	Quero gardar que na medición de hoxe deume cento vinte e tres de tensión
+1567	Acabo de medirme a tensión e saíume cento dezasete milímetros
+1568	Faime o favor de rexistrar o valor de tensión
+1569	Apunta que a miña tensión no sangue é de cento corenta e cinco milímetros de mercurio
+1570	Gustaríame que anotes que a miña presión no sangue hoxe é de cento cincuenta e tres
+1571	Bos días, fixen unha nova medición da saturación de osíxeno
+1572	A miña saturación de osíxeno é do noventa e oito por cento
+1573	Rexístrame que hoxe teño un noventa e cinco por cento de osíxeno en sangue
+1574	O osíxeno saíume algo baixo, teño un noventa e tres por cento
+1575	Engade un novo valor de osíxeno en sangue
+1576	A miña saturación do osíxeno en sangue hoxe é do noventa e nove por cento
+1577	Pódesme apuntar un nivel de osíxeno no sangue do noventa e seis por cento?
+1578	Teño un noventa e catro por cento de saturación de osíxeno
+1579	Rexistra que hoxe saíume un noventa e un por cento de osíxeno no sangue
+1580	Teño que rexistrar o osíxeno
+1581	Podes rexistrarme as pulsacións de hoxe?
+1582	A miña frecuencia cardíaca para hoxe é de oitenta pulsacións por minuto
+1583	Contei sesenta e nove pulsacións por minuto
+1584	Apunta que o meu ritmo cardíaco é de setenta e dúas pulsacións
+1585	Podes apuntar que teño cincuenta e cinco pulsacións por minuto?
+1586	Garda oitenta e sete pulsacións para hoxe, por favor
+1587	Hoxe tiven noventa e un latidos por minuto
+1588	Para a frecuencia cardíaca, anota que teño setenta e cinco pulsacións
+1589	O meu ritmo cardíaco hoxe é de cincuenta e unha pulsacións por minuto
+1590	Rexistra que hoxe medín sesenta e catro para a frecuencia cardíaca
+1591	Garda aí que hoxe durmín coma o cu
+1592	Esta noite durmín fatal, a verdade
+1593	Cada vez durmo peor
+1594	Nada, hoxe non peguei ollo
+1595	Durmín menos que nos últimos días
+1596	Durmín mal
+1597	Fatal, espertei un montón de veces e non dei collido o sono
+1598	Pasei unha noite mala, non dei collido a postura
+1599	Fatal, durmín fatal
+1600	Non dei pegado ollo, moi mal
+1601	Hoxe durmín coma un cativo
+1602	Durmín toda a noite do tirón
+1603	Si, durmín moi ben
+1604	Esta noite durmín xenial
+1605	Si oh, durmín moi ben
+1606	Pois a verdade é que descansei ben
+1607	Descansei moito
+1608	Durmín ben
+1609	Mellor mellor, hoxe durmín mellor
+1610	Durmín moito mellor que antonte
+1611	Durmín bastante mellor ca a noite pasada
+1612	Esta noite durmín moito peor ca onte
+1613	A cantidade de urina recollida hoxe é de un coma tres litros
+1614	Anota cero punto nove litros de urina nas últimas vinte e catro horas
+1615	A miña saturación de osíxeno de hoxe é do noventa e catro por cento
+1616	Apunta que teño un oitenta e oito con seis por cento de osíxeno en sangue
+1617	A saturación de osíxeno de hoxe é noventa e dous por cento
+1618	Teño cento vinte e dous de tensión sistólica
+1619	A miña tensión sistólica, a alta, é de cento oitenta
+1620	Por favor, rexistra unha tensión arterial alta de noventa e sete
+1621	Creo que medín mal a cantidade de urina. Podo volver indicala?
+1622	Gustaríame volver rexistrar a porcentaxe de osíxeno no sangue
+1623	Confundinme ao tomar a tensión arterial e quero rexistrala de novo
+1624	Quero corrixir o valor de saturación de osíxeno que anotaches antes
+1625	Anota aí a miña mexada
+1626	Anota que ouriñei vinte mililitros
+1627	Quero anotar a mexa
+1628	Garda a medida de urina de hoxe
+1629	Quero gardar e mexa recollida
+1630	Quero gardar a urina recollida
+1631	Quero garda-lo peso de hoxe
+1632	Quero garda-los datos de sono
+1633	Garda os meus datos de sono
+1634	Garda que hoxe durmín nove horas
+1635	Rexistra un sono de sete horas
+1636	Rexistra un sono de seis horas e media
+1637	Garda que hoxe peso setenta e seis quilos e catrocentos gramos
+1638	Quero garda-lo meu peso de hoxe
+1639	Hoxe pesei cincocentos gramos máis
+1640	Garda que hoxe durmín media hora menos
+1641	Hoxe durmín ben, oito horas polo menos
+1642	Hoxe peso oitenta e tres con sete quilos
+1643	O meu peso hoxe é de sesenta e sete quilos
+1644	Esta noite recollín douscentos mililitros de urina
+1645	Esta noite mexei pouco, cincuenta mililitros
+1646	Rexistra a urina recollida
+1647	Garda aí os datos de urina e de peso
+1648	Rexistra os meus datos de tensión
+1649	Podes rexistrar que a urina recollida é de setenta mililitros?
+1650	Hoxe pesei un quilo menos
+1651	Ando algo canso
+1652	Estou sen ánimos
+1653	Non ando moi alá
+1654	Pois a verdade é que estou algo triste
+1655	Vou un pouco moída
+1656	Non estou para festas, a verdade
+1657	Hoxe non estou para gaitas
+1658	Non estou para moitos trotes
+1659	Estou deprimida
+1660	Ando sen azos
+1661	Vou falto de ánimos
+1662	Hoxe non atopo ánimos para seguir
+1663	Estou un pouco preocupado
+1664	Non teño folgos
+1665	Pois en xeral, teño un pouco de desazo
+1666	Hoxe non me atopo demasiado ben, é unha mágoa
+1667	Ando desanimada
+1668	Estes días teño algo de abatemento
+1669	Pois síntome apático e sen forzas
+1670	Ultimamente ando moi desganado
+1671	Éme bastante indiferente todo, a verdade
+1672	Estou ben, estou ben
+1673	Hoxe non che teño ganas de leria
+1674	Pois hoxe prefiro acougar un pouco na casa
+1675	Pois atópome como nova
+1676	Hoxe estou contento e feliz
+1677	Síntome radiante
+1678	Estes días ando moi leda, non sei por que
+1679	Estou feliz
+1680	Estou alegre
+1681	Hoxe vou alfúfaro
+1682	Pois hoxe todo é unha ledicia
+1683	Todo correcto
+1684	Ben, con enerxías
+1685	Atópome moi ben, apetéceme facer cousas
+1686	Hoxe creo que vou ter dita
+1687	Pois non me podo queixar
+1688	Vou mellor, para que enganarnos
+1689	Ben, ben, non me queixo
+1690	Aí imos, tirando
+1691	Imos tirando
+1692	Vou moito mellor
+1693	Ímolo levando, filliña
+1694	Hoxe coido que vai ser un bo día
+1695	Non me atopo ben
+1696	Non estou moi alá
+1697	Vou vella
+1698	Estou forte coma un carballo
+1699	Moi ben, coma un buxo
+1700	Pois hoxe atópome moi ben
+1701	Ben, ben, hoxe teño ganas de leria
+1702	Vou maior
+1703	Hoxe é un deses días nos que non me doe nada
+1704	Non estou para hostias
+1705	Hoxe creo que vai ser un bo día
+1706	Síntome como sen forzas
+1707	Ando rara, algo afectada
+1708	Síntome bastante ben, a verdade
+1709	Pois ben, levo uns días mellorando aos poucos
+1710	Atópome moito mellor desde a última revisión
+1711	Vou regular
+1712	Non estou ben
+1713	Estou coma nunca
+1714	Ben, ben, atópome cada vez mellor
+1715	Ando sen ganas de facer nada
+1716	Hoxe encóntrome moi mal
+1717	Estou comezando a encontrarme mal
+1718	Non sei que me pasa, pero encóntrome fatal
+1719	Xa non teño dor ningunha
+1720	Onte doíame todo, pero xa estou mellor
+1721	Agora mesmo síntome bastante desanimado
+1722	Onte estaba xenial, pero agora dóeme todo
+1723	Estou derreado
+1724	Estou deslombada
+1725	Hoxe estou eslombada
+1726	Pois estou desfeito, a verdade
+1727	Puf, estou moído
+1728	Estou moída, non podo máis
+1729	Estou cansada
+1730	Estou feito un trapo
+1731	Estou feita unha merda
+1732	Esta semana estou moída
+1733	Ando moída desde a última consulta
+1734	Estou cansa
+1735	Teño moita fatiga
+1736	Estes días atópome ben
+1737	Esta semana, moi ben
+1738	Imos mellorando
+1739	Estou animado
+1740	Síntome animado
+1741	Ben, síntome coma novo
+1742	Ben, estou feito un rapaz
+1743	Pois ando moi ledo
+1744	Estou contenta
+1745	Ultimamente moi contento
+1746	Alegre da vida
+1747	Ai, estes días ando moi leda eu
+1748	Un pouco triste, non sei por que
+1749	Levo días bastante alegre
+1750	Síntome apesarada
+1751	Xa tomei a pastilla para o sangue?
+1752	Teño que tomar a pastilla do corazón pola mañá?
+1753	Cando teño que tomar a pastilla do colesterol?
+1754	Teño que tomar a pílula para os riles?
+1755	Tomei xa a pílula para a tiroide?
+1756	Que dose teño que tomar para o corazón?
+1757	Non sei se teño que tomar agora a pílula do colesterol, podes axudarme?
+1758	O comprimido para a tiroide, tócame hoxe?
+1759	Dime se teño que tomar a pastilla dos riles
+1760	Cando me toca a pílula da tiroide?
+1761	Boas, dime cando teño que tomar a pastilla para a diabetes hoxe
+1762	Cando toca a pílula do azucre?
+1763	Non lembro se hoxe teño que tomar a pastilla da diabetes
+1764	A pílula para o corazón, toca hoxe?
+1765	Esquecín se teño que tomar a pastilla para o ril
+1766	Faime o favor de dicirme se esta tarde teño que tomar a pastilla do colesterol
+1767	Que dose me toca para a diabetes?
+1768	Sabes a dose que teño que tomar para o colesterol?
+1769	Esquecín a dose da pastilla para a tiroide
+1770	Cando teño que tomar a pílula do ril?
+1771	Esta pastilla, cando teño que tomala?
+1772	Cantas pastillas hai que tomar da amarela?
+1773	Cal é a dose desta pastilla?
+1774	Cal é a dose desta medicación?
+1775	Dime a dose desta pastilla
+1776	Dime a dose da pílula do mediodía 
+1777	Agora é unha pastilla enteira ou só media?
+1778	Cal é a dose da pastilla da noite?
+1779	Dime a dose da medicación da noite
+1780	Quero sabe-la dose que teño que tomar desta medicación
+1781	Recórdasme que pastillas teño que tomar hoxe?
+1782	Que pílula me toca tomar despois de xantar?
+1783	Non me acordo dos comprimidos que me tocan hoxe, bótasme unha man?
+1784	Que pastillas teño que tomar despois de comer?
+1785	Pola tarde que teño que tomar?
+1786	Que pastillas me tocan mañá?
+1787	Podes axudarme coas pastillas que teño que tomar hoxe?
+1788	Para mañá, que pílulas teño que preparar?
+1789	Dime os comprimidos que preciso tomar despois de cear, por favor
+1790	Non teño nin idea das pílulas que me tocan esta tarde
+1791	Esquecín as pastillas que me corresponde tomar hoxe
+1792	Dime as pastillas que teño que tomar mañá, por favor
+1793	Quero saber que pílulas teño que coller para mañá
+1794	Sabes se mañá teño que tomar algunha pastilla?
+1795	Por favor, dime que comprimidos me tocan hoxe
+1796	Cales son as pastillas para esta mañá?
+1797	Sabes que pastillas me tocan este domingo?
+1798	Recórdame as pílulas para o martes
+1799	Xa non me acordo do que teño que tomar hoxe
+1800	Axúdasme a saber as pastillas para hoxe?
+1801	Que medicación teño que tomar esta noite?
+1802	Dime a medicación que teño que tomar hoxe
+1803	Teño que tomar algo ao mediodía?
+1804	Quero saber a medicación que me toca mañá
+1805	Que é o que teño que tomar para o corazón?
+1806	Leme as pastillas que me tocan pola mañá
+1807	Quero saber que medicamentos teño que tomar
+1808	Podes axudarme coa medicación?
+1809	Preciso de axuda cos medicamentos
+1810	Que carallo teño que tomar polas noites?
+1811	Xa non sei se esta pastilla é pola mañá ou pola noite?
+1812	Cando me toca o medicamento?
+1813	Bótasme unha man coa medicación?
+1814	Que pastilla tomo agora?
+1815	E agora, cal me toca?
+1816	Oíches?, esta pastilla teño que tomala pola noite?
+1817	Quero que me axudes coa medicación
+1818	Podes aclararme os medicamentos que teño que tomar?
+1819	Que pastilla tiña que tomar pola mañá?
+1820	A pílula do mediodía, é antes ou despois de xantar?
+1821	Dime as medicinas que teño que tomar
+1822	Que pastillas teño que tomar agora?
+1823	Cales son as pastillas da mañá?
+1824	Dime as pastillas da tarde
+1825	Dime as pastillas de despois de xantar
+1826	Bótame unha man coas medicinas
+1827	Bótame unha man coas pastillas
+1828	Di as pastillas que teño que tomar despois de almorzar
+1829	Que pastillas me tocan ao xantar?
+1830	Dime que pastilla teño que tomar agora
+1831	Non sei cales son as pastillas que me tocan agora
+1832	Recórdame cales son as pastillas que teño que tomar
+1833	Teño que volver tomar as pastillas hoxe?
+1834	Cal era a dose de medicación que me corresponde?
+1835	Non lembro que pastillas tiña que tomar. Podes recordarmo? 
+1836	Dime que pastillas tocan
+1837	Dime as pastillas que me tocan
+1838	Di as pastillas que tocan agora
+1839	Di que pastillas me tocan agora mesmo
+1840	Quero saber que pastillas me tocan
+1841	Teño que preparar as pastillas para mañá
+1842	Dime que pastillas me tocan mañá, que preparo a caixa
+1843	Cales son as pílulas de primeira hora?
+1844	Dime as pastillas do almorzo
+1845	Dime que medicinas hai que tomar despois do almorzo
+1846	Que medicina teño que tomar agora?
+1847	Cal é a pastilla que me toca?
+1848	Dime o medicamento que teño que tomar agora
+1849	Axúdame coas pastillas
+1850	Axúdame coa medicación
+1851	Axúdame co medicamento
+1852	Axúdame coas medicinas
+1853	Axúdame coas pílulas
+1854	Bótame unha man co medicamento que me toca agora
+1855	Bótame un cabo coa medicación
+1856	Cando tiña que tomar esta pastilla?
+1857	Dime as pastillas que teño que tomar pola noite
+1858	Que teño que tomar antes de durmir?
+1859	Podo toma-la pastilla xa?
+1860	Dime a medicación que teño que tomar pola noite
+1861	Cando tiña que bota-la crema na ferida?
+1862	Cantas veces ao día hai que toma-la medicina?
+1863	Cantas veces ao día boto a crema?
+1864	Dime cantas veces ao día tiña que toma-la medicación
+1865	Cada cantas horas tomo a medicación?
+1866	Cantas veces ao día hai que tomar esta pastilla?
+1867	Cada canto tomo a medicina que me deron?
+1868	Cada canto tomo o medicamento que me receitaron?
+1869	Dime cantas veces ao día hai que toma-la medicación que me receitaron
+1870	Quero saber cando me toca esta pastilla
+1871	Cando hai que bota-la crema que me deron?
+1872	Cando tiña que bota-las gotas?
+1873	A que hora me toca volver bota-las gotas?
+1874	Dime cando teño que bota-las gotas
+1875	Quero saber cando me toca bota-las gotas de novo
+1876	Dime cando teño que bota-la pomada
+1877	A pomada, cando teño que botala?
+1878	A que hora teño que botar o ungüento?
+1879	Dime cando hai que bota-lo ungüento este
+1880	Cada cantas horas aplico a pomada?
+1881	Cada cantas hora boto a pomada?
+1882	Cando hai que face-la untura?
+1883	Cando unto a crema?
+1884	Cando unto a pomada?
+1885	Cando teño que bota-los pos na ferida?
+1886	Cando me toca bota-los pos?
+1887	Cada canto boto os pos?
+1888	Dime cando toca bota-los pos
+1889	Cando teño que aplica-los pos?
+1890	Di cando hai que aplica-los pos estes
+1891	Di cando teño que aplica-lo ungüento
+1892	Di cada canto teño que aplica-los pos receitados
+1893	Dime cada cantas horas teño que aplica-los pos
+1894	Quero saber cada canto me toca a pastilla da tensión
+1895	Os pos estes, cando tiña que botalos?
+1896	As gotas que me deron, cada canto teño que botalas?
+1897	Cantas gotas hai que botar en cada ollo?
+1898	Cal era a dose das gotas?
+1899	Cal era a dose dos pos para os pés?
+1900	Dime a dose das gotas
+1901	Quero pedir unha cita
+1902	Quero unha cita co médico de cabeceira
+1903	Pódesme pedir unha cita no médico?
+1904	Quero pedir unha cita no médico
+1905	Quero pedir unha cita médica
+1906	Cando hai oco no meu médico de familia?
+1907	Cando ten oco a miña médica?
+1908	Boas, gustaríame solicitar unha cita médica
+1909	Quero unha cita no centro médico
+1910	Podes cadrar unha cita de medicina de familia?
+1911	Sabes se hai oco no médico para a semana que vén?
+1912	Cando me dan cita en enfermería, sabes?
+1913	Oíches?, quero reservar unha cita coa miña doutora
+1914	Sabes se mañá hai oco na miña médica de cabeceira?
+1915	Quero solicitar unha cita para vacinación
+1916	Cando é a próxima cita dispoñible no meu médico?
+1917	Cando ten oco a doutora?
+1918	Quero saber cando é posible ter unha cita co meu médico
+1919	Quero facer unha solicitude de consulta no meu centro médico
+1920	Quero facer unha solicitude de consulta para o médico de familia
+1921	Quero que reserves unha consulta para receitas
+1922	Pídeme unha cita para que me dean as receitas, por favor
+1923	Pide unha cita no meu centro médico
+1924	Quero unha cita para que me receiten as medicinas, cando hai oco?
+1925	Pídeme unha cita co especialista
+1926	Quero ter unha consulta por enfermidade
+1927	Podes pedir citas para emisión de receitas?
+1928	Quero que me reserves unha consulta para atención primaria
+1929	Podes pedirme cita para a renovación das miñas receitas?
+1930	Boas, pídeme consulta coa miña médica
+1931	Quero pedir cita para unha análise
+1932	Pódesme pedir cita para a análise de sangue que teño que facer?
+1933	Quero unha cita en atención primaria, cando hai oco?
+1934	Podes pedirme cita para o martes que vén?
+1935	Gustaríame ter unha consulta en dúas semanas, podes pedirma?
+1936	É posible programar unha consulta esta semana en atención primaria?
+1937	Cando hai ocos esta semana co meu médico de cabeceira?
+1938	Que horas ten dispoñible a miña médica esta semana?
+1939	A que hora podes reservar unha cita mañá?
+1940	Quero saber que horas hai libres para ter unha cita
+1941	Pódesme reservar unha cita médica?
+1942	Pide unha cita para medicina de familia
+1943	Quero que me pidas consulta co doutor
+1944	Que horas ten libre na consulta a miña médica de familia?
+1945	Podes ver cando é posible reservar unha cita médica?
+1946	Podes programar unha cita médica?
+1947	Pídeme aí unha cita
+1948	Quero unha cita en enfermería, podes ver se hai ocos o xoves?
+1949	Podes comprobar se hai horas libres no meu médico o luns doce?
+1950	Ten ocos na consulta o próximo mércores?
+1951	Podes reservarme unha cita no médico
+1952	Quero reservarlle unha cita a meu pai. Podes?
+1953	Cando ten un oco a doutora o martes vinte e un?
+1954	Cando é a primeira hora libre para facer unha análise?
+1955	Quero saber que ocos hai libres para pedir cita en atención primaria
+1956	Podes dicirme que ocos hai na consulta do meu doutor a semana que vén?
+1957	Dime cando é posible ter unha consulta coa médica de cabeceira
+1958	Quero ter unha nova cita médica
+1959	Podes pedirme unha cita para mañá ou pasado?
+1960	Cando podes reservarme unha cita co meu médico?
+1961	Cando é posible ter unha nova cita?
+1962	Pídeme unha nova cita
+1963	Quero pedir unha cita para vacinarme
+1964	Podes pedirme cita para a vacina da gripe?
+1965	Cando me podes dar cita este ano para vacinarme da gripe?
+1966	Pídeme cita en enfermaría
+1967	Estoume quedando sen medicinas, necesito unha consulta para emisión de receitas
+1968	Pídeme unha cita para as receitas
+1969	Quero pedir unha cita para emisión de receitas
+1970	Podes facer unha solicitude de consulta para as receitas?
+1971	Levo uns días fatal, pódesme pedir cita coa miña médica?
+1972	Teño que pedir cita para a renovación das miñas receitas crónicas
+1973	Quero pedir cita en atención farmacéutica
+1974	Quero unha cita de receitas
+1975	Quero programar unha cita para enfermería
+1976	Pide unha cita para o próximo oco dispoñible
+1977	Quero unha cita para análise en canto sexa posible
+1978	Resérvame a primeira hora dispoñible co meu doutor
+1979	Cando podo ir á vacina da gripe?
+1980	Cando hai oco para vacinar da gripe a miña nai?
+1981	Pide unha cita en atención primaria
+1982	Reserva unha consulta en medicina de familia
+1983	Cando podo ter unha cita co meu médico de familia?
+1984	Que ocos ten a miña médica de cabeceira esta semana?
+1985	Quero reservar unha consulta médica
+1986	Necesito pedir unha cita para as receitas
+1987	Necesito unha cita médica para que me dean máis receitas
+1988	Quero que me reserves unha consulta para receitas, podes?
+1989	Pídeme unha cita para medicina de familia
+1990	Faime a reserva dunha nova consulta para esta semana
+1991	Quedan ocos para unha cita esta semana?
+1992	Mañá hai algún oco para ter unha cita?
+1993	Quero que me vexa o doutor
+1994	Pódesme pedir cita para medicina de familia?
+1995	Cando me dan cita coa miña doutora, sabes?
+1996	Quero ter unha cita coa miña doutora
+1997	E ti podes pedir unha cita esta semana?
+1998	Quedan horas libres para a miña doutora esta semana?
+1999	Cando é o primeiro oco que ten o meu doutor?
+2000	Solicita a próxima consulta que teña dispoñible o meu doutor de cabeceira
+2001	Dóeme moito o cóbado e quero pedir unha cita
+2002	Dáme a próxima cita en atención primaria
+2003	Dóeme unha perna, pódesme pedir cita?
+2004	Ando con febre, pídeme cita
+2005	Estou con quentadura, cando me dan cita?
+2006	Penso que teño infección no oído, poden verme mañá?
+2007	Dóeme a testa e teño mocos, igual é momento de pedir cita na médica
+2008	Ando coa tensión fatal, pódesme pedir unha cita canto antes?
+2009	Pois teño dificultade ao respirar, como se quedara sen aire
+2010	Pois ando con dor na gorxa, creo que quero que me vexa o médico
+2011	Quero ver a médica, que me rasca a gorxa
+2012	Estou afónica e con dor na cabeza, pide unha cita se hai oco
+2013	Cústame tragar e dóeme a gorxa, podo ir ao médico?
+2014	Pódesme pedir cita no médico?, que levo uns días con moita dor no peito
+2015	Pídeme cita no médico canto antes, que non aguanto máis
+2016	Pídeme unha nova cita en atención primaria
+2017	Quero que me pidas unha cita en atención primaria
+2018	Quero pedir cita por dor no peito
+2019	Quero pedir cita por mareos
+2020	Creo que teño gripe, hai oco hoxe ou mañá?
+2021	Creo que teño covid, podo ir ao médico a ver se me dan algo?
+2022	Estou con síntomas de covid
+2023	Teño catarro, quero ir ao médico a que me bote un ollo
+2024	Atópome fatal, como con gripe ou catarro, pídeme unha cita
+2025	Teño síntomas de covid ou gripe, quero ir á médica
+2026	Levo uns días cun constipado que non me dá pasado, pídesme cita?
+2027	Teño dor nas mans da artrose, quero que me vexa un médico
+2028	Quero unha cita en atención primaria para que me receiten algo
+2029	Levei un golpe no ombreiro, pídeme cita para que lle boten un ollo
+2030	Quero cita en atención primaria para unha análise
+2031	Caín e levei un golpe na cadeira. Pódesme pedir cita?
+2032	Non sei se terei covid, pídesme cita?
+2033	Teño unha ferida infectada, podo velo coa médica?
+2034	Quero pedir cita para que me revisen unha ferida
+2035	Quero unha cita para que lle boten un ollo a miña nai
+2036	Quero unha cita para o meu pai
+2037	Pódeslle pedir unha cita a miña nai?
+2038	Cando hai oco para unha cita?
+2039	Cando é a próxima cita dispoñible?
+2040	Quero unha cita, cando hai oco?
+2041	Axenda unha cita para a miña nai, que penso que anda con gripe
+2042	Pide cita no próximo oco para revisar a tensión
+2043	Quero cita o luns
+2044	Quero unha cita esta semana
+2045	Hai oco no médico esta semana?
+2046	Hai sitio no médico para a semana?
+2047	A semana que vén, hai algún oco baleiro no meu médico?
+2048	A semana que vén, queda sitio para unha cita?
+2049	Filliña, atópome mal desde fai días, pídesme unha cita?
+2050	Para cando me dan cita no médico?
+2051	Quero que pidas cita na miña médica
+2052	Dóeme o peito en canto me deito, pídesme unha cita para revisalo?
+2053	Quero que pidas unha cita para receitas
+2054	Quero que pidas cita na médica polo tema da diabetes
+2055	Axenda unha cita
+2056	Quero unha cita, que me costa respirar moito polas noites
+2057	Pídeme cita para este martes
+2058	Pídeme cita para o mércores
+2059	Quero ver ao médico
+2060	Quero que me vexa a doutora
+2061	Pode verme o doutor mañá?
+2062	Podo ir á médica hoxe?
+2063	Gustaríame que lle botara un ollo a isto un médico
+2064	Quero cita no médico canto antes
+2065	Dáme cita canto antes
+2066	Anótame no próximo oco baleiro da miña doutora
+2067	Anótame en canto se poida para ir ao médico
+2068	Ando na merda desde fai dous días, pódeme ver o doutor hoxe?
+2069	Chama aí e pide cita, non vaia ser o demo
+2070	Pídeme cita, no vaia ser o demo
+2071	Levo cunha tose do demo unha semana, quero cita
+2072	Quero que me programes unha cita, que teño dor no peito, na caixa torácica
+2073	Pídeme cita, que levo toda a mañá con vertixes
+2074	Dáme cita, que me doe moito ao dobrar o xeonllo
+2075	Teño trinta e oito de febre, hai oco hoxe?
+2076	Mira, quero que me dean unha cita canto antes
+2077	Como fago para pedir unha cita co cacharro este?
+2078	Explícame como teño que facer para pedir unha cita médica
+2079	Podo pedir a cita por aquí sen chamar a médica?
+2080	Chámasme para pedir unha nova cita?, que se me pasou a anterior
+2081	Pasóuseme a cita, podes pedirme unha de novo?
+2082	Pídesme cita de novo, que me esquecín de ir?
+2083	Dixéronme que volva a pedir cita, encárgaste ti?
+2084	Pide unha cita para a revisión anual
+2085	Pídeme cita para a revisión no xinecólogo
+2086	Podes pedir cita para unha revisión na uróloga?
+2087	Pídeme cita para o primeiro luns que teñan oco
+2088	Quero unha cita coa miña médica este martes ou mércores
+2089	Podes pedir cita co médico o venres?
+2090	Quero pedir cita para o martes sete, hai algún oco?
+2091	Quero unha cita para facer unha analítica
+2092	Quero unha cita para facer a analítica de urina
+2093	Quero pedir unha cita coa nutricionista
+2094	Pídeme unha cita para ver o resultado dunha analítica
+2095	Quero pedir unha cita para unha revisión de saúde
+2096	Necesito unha cita para o preoperatorio
+2097	Boas, necesito unha cita en radioloxía
+2098	Quero que me pidas cita para a mamografía
+2099	Xa teño os resultado, pide cita para ver os resultados da mamografía
+2100	Necesito programar unha citar para facer un electrocardiograma
+2101	Pedíronme unha análise de sangue, pídesme cita?
+2102	Pide cita para unha ecografía
+2103	Quero cita para unha eco
+2104	Pide cita para ver os resultados da proba co ecógrafo
+2105	Teño que pedir cita para facer as curas
+2106	Pide cita para cambiar a vendaxe
+2107	Xa me toca facer as curas, pide cita
+2108	Pide unha nova cita no dermatólogo
+2109	Teño que queimar unhas verrugas, podes pedirme cita?
+2110	Quero unha nova cita para ver os resultados da radiografía
+2111	Para cando me podes dar cita co meu médico?
+2112	Pódesme pedir cita para cardioloxía esta semana?
+2113	Dixéronme que tiña que pedir cita para facer un electro
+2114	Teño que pedir cita para ver os resultados do electro
+2115	Pídeme cita para cardioloxía o antes posible
+2116	Quero unha cita
+2117	Quero pedir unha cita coa médica
+2118	Quero unha cita médica
+2119	Quero unha cita en atención primaria
+2120	Quero pedir unha cita en atención primaria
+2121	Quero pedir cita no médico
+2122	Pídesme cita?
+2123	Pídesme unha cita médica?
+2124	Pídesme unha cita?
+2125	Pídesme cita na médica no primeiro oco baleiro?
+2126	Pódesme pedir cita para facer unha analítica de sangue?
+2127	Quero solicitar unha analítica de ouriños
+2128	Dáme cita para revisa-los resultados da analítica
+2129	Quero cita para ve-los resultados das probas
+2130	Necesito unha consulta de seguimento tralo tratamento
+2131	Quero unha cita para realizar unha análise de feces
+2132	Pídesme cita para a toma de mostras para cultivo?
+2133	Solicitude de mamografía
+2134	Cando podo ve-los resultados da ecografía?
+2135	Dáme cita para a vacina do Covid dezanove
+2136	Quero solicitar cita para poñe-la terceira dose da vacina do covid
+2137	Cando hai oco para facer un test biométrico?
+2138	Cando me podes dar cita para unha dermatoscopia?
+2139	Teño que pedir unha cita para saca-las vías
+2140	Preciso un cambio de sonda uretral. Cando hai oco?
+2141	Pídeme unha consulta para revisar uns problemas coa máquina de durmir
+2142	Cando me poden cambia-la vendaxe?
+2143	Dáme cita para face-las curas
+2144	Quero facer unha radiografía dental. Cando pode ser?
+2145	Cando me van quita-los puntos?
+2146	Solicítame unha cita para retira-lo infusor 
+2147	Podes pedir cita para unha revisión xeral?
+2148	Pídeme cita para a inxección de vitamina B doce
+2149	Hai oco esta semana para vacinarse?
+2150	Quero solicitar unha consulta co médico para revisa-los resultados 
+2151	Teño moito frío
+2152	Teño dor na zona dos cadrís
+2153	Dóenme moito as costas
+2154	Dóeme o lombo
+2155	Dóeme a cabeza
+2156	Dóenme as pernas
+2157	Dóenme moito as pernas
+2158	Teño o formigo polas pernas
+2159	Teño o formigo por todo o corpo
+2160	Pícanme moito as costas
+2161	Pícame moito a cara
+2162	Pícanme moito as mans
+2163	Teño frío polas pernas
+2164	Teño frío polas mans
+2165	Dóeme o peito
+2166	Formíganme as pernas
+2167	Formíganme as mans
+2168	Teño unha ferida no brazo
+2169	Dóeme moito a barriga
+2170	Dóeme moito o estómago
+2171	Teño moita febre
+2172	Non sinto as pernas
+2173	Non sinto as mans
+2174	Fendín unha perna
+2175	Manquei a man
+2176	Manquei a man dereita
+2177	Manquei a man esquerda
+2178	Non dou baixado a febre
+2179	Estóupame a cabeza
+2180	Pítame un oído
+2181	Dóeme a gorxa
+2182	Creo que me está dando un infarto
+2183	Creo que teño Covid
+2184	Dóeme ao mexar
+2185	Teño sangue nos ouriños
+2186	Teño sangue cando vou ao baño
+2187	Teño moita tose
+2188	Boto sangue ao mexar
+2189	Boto sangue ao tusir
+2190	Teño toda a pel chea de grans
+2191	Teño toda a pel chea de manchas
+2192	Saíume un vulto no pescozo
+2193	Saíume un vulto na perna
+2194	Teño un vulto no brazo
+2195	Estou moi mareado
+2196	Non me teño de pé
+2197	Váiseme a cabeza cando me poño de pé
+2198	Non aguanto da dor
+2199	Non aguanto da cabeza
+2200	Estou rendido
+2201	Estóupanme os miolos
+2202	Rompín a perna dereita
+2203	Rompín a perna esquerda
+2204	Rompín o brazo dereito
+2205	Rompín o brazo esquerdo
+2206	Creo que teño roto un dedo da man
+2207	Dei un golpe no xeonllo e non sei se non o rompería
+2208	Estaba a xogar ao baloncesto e, ao saltar, deume unha dor forte no xeonllo
+2209	Xogando ao fútbol déronme unha patada e non podo pousar o pé
+2210	Non me diga o que me doe e o que non
+2211	Onte parecía que ía mellor, pero hoxe non me teño da dor
+2212	"Cando espertei, estaba con moita febre, agora parece que foi pasando"
+2213	Eu non sei se será gripe ou que será
+2214	Para min que vai ser gripe
+2215	Para min que non é nada, pero por se acaso
+2216	Depende de se camiño amodo ou rápido, sinto máis ou menos dor 
+2217	Non dou levantado a perna
+2218	Non me dou levantado da cama
+2219	Sáltanme as bágoas coa dor
+2220	Chórame moito o ollo dereito
+2221	Dóeme de carallo
+2222	Vánseme as pernas ao camiñar
+2223	Perdín a memoria
+2224	Noto o corazón a toda velocidade
+2225	Dóeme cando encho de aire os pulmóns
+2226	Cando camiño non dou respirado
+2227	Afogo ao camiñar
+2228	Se falo ao andar, perdo a respiración
+2229	Normalmente non me pasa, pero agora é que nin subir escaleiras podo
+2230	A última vez que me doeu así déronme antibiótico
+2231	Foi xusto erguerme da cama e caer redondo
+2232	Deume un mareo e caín
+2233	Non podo dicir cando empezou, pero xa levo días con esta dor
+2234	Non sei se será Covid ou gripe, pero levo días e non me pasa
+2235	Quedei presa dun lado
+2236	Levo toda a semana presa do lombo
+2237	O neno quéixase do oído
+2238	Teño un montón de gases e non paro de ir ao baño
+2239	Botou bastante sangue e agora disque se marea
+2240	Non podo xirar o nocello
+2241	Non podo mover o xeonllo
+2242	Non podo xirar a cabeza cara a dereita
+2243	Non escoito nada polo oído esquerdo
+2244	Teño taponados os oídos
+2245	Vaime a dor dun lado ao outro das costas
+2246	Comézame a dor no peito e vaime ata as costas
+2247	Creo que rompín a cadeira ao caer
+2248	Cando fago de ventre vou moi líquido
+2249	Pasei toda a noite no baño vomitando
+2250	Agora non teño febre, pero non baixei de trinta e nove graos en toda a noite 
+2251	Chocamos as cabezas e rompín un par de dentes
+2252	Por moito que como non se me vai a fame
+2253	Todo o que como logo bótoo para fóra
+2254	Deulle un infarto hai tres anos
+2255	Tivo un accidente de coche e agora está coxo
+2256	Dende o ataque está encamada
+2257	Teño a lingua toda branca, pero a gorxa non me doe
+2258	Case seguro que lle sentou algo mal ao estómago
+2259	Levo con gases unha semana
+2260	Sempre foi baixiño, pero logo medrou todo nun ano
+2261	Ten moito moco
+2262	Ten moito moco nos oídos
+2263	Teño moita cera no oído esquerdo, creo que está taponado
+2264	Tiveron que sacarlle as amígdalas
+2265	Van ter que operalo das vexetacións
+2266	Fixéronlle a vasectomía, pero quedoulle mal
+2267	Fomos pola privada e dixéronnos que era cancro de pulmón
+2268	Leva tempo con esa tose de can e dóenlle o peito e as costas
+2269	Ten os bronquios moi cargados
+2270	Está moi atascado, pero non tivo tose
+2271	Empezou con moco e logo xa viñeron a tose e a febre
+2272	Estivemos a darlle ibuprofeno e paracetamol, pero non conseguimos que lle baixase a febre
+2273	Deille Dalsy cada oito horas
+2274	O Apiretal non lle fixo nada
+2275	Levei un golpe na testa
+2276	Manquei unha man
+2277	Manqueime na perna
+2278	Dóeme a cadeira
+2279	Levei un golpe no cadril
+2280	Estou algo mareada e con dor na cabeza
+2281	Doíame o peito e mareábame moito
+2282	Caeu e ten o xeonllo inflamado
+2283	Ten dor de garganta, tose e trinta e nove de febre
+2284	Teño moita febre, case corenta
+2285	Levo catro días con dor de peito e mareos
+2286	Picoume un insecto e inchoume a perna
+2287	Picoume unha avespa velutina 
+2288	Teño algo cravado na planta do pé
+2289	Pisei un ferro oxidado
+2290	As botas fixéronme ampolas e non podo camiñar
+2291	Teño unha reacción cutánea
+2292	Teño molestias ao ouriñar
+2293	Estou mexando sangue
+2294	Pois teño bastante dor nun dos riles
+2295	Penso que teño pedras nos riles
+2296	Teño un vulto no pescozo
+2297	Teño os ganglios inflamados
+2298	Sinto constantes calafríos
+2299	Dei positivo en Covid
+2300	Estou con moitos gases
+2301	Teño o meu fillo con descomposición
+2302	Estou con cagarría
+2303	Estou cheo de negróns
+2304	Teño o corpo cheo de hematomas
+2305	Teño un negrón na perna esquerda
+2306	Teño hematomas no brazo dereito
+2307	Teño medo a ter cancro de mama
+2308	Creo que teño cancro de pulmón
+2309	Teño síntomas de cancro
+2310	Padezo síntomas de cancro de ovario
+2311	Pode que teña anemia
+2312	Síntome coma se tivese anemia
+2313	Igual teño algún problema cos leucocitos
+2314	Sinto que teño síntomas de VIH
+2315	Teño medo a ter VIH
+2316	É posible que teña sarcoidose
+2317	É posible que teña síntomas de anemia
+2318	Pode que teña síntomas de VIH
+2319	Sinto calafríos constantes por todo o corpo
+2320	Desmaieime hai unhas horas
+2321	Non é capaz de manterse en pé
+2322	Ten dificultades para manterse de pé
+2323	Acaba de perde-lo coñecemento
+2324	Teño as pernas adormecidas
+2325	Estanme a dar moitas suores
+2326	Fíxenme unha ferida e sangra bastante
+2327	Saíronme ronchas polo corpo
+2328	Teño manchas raras polos brazos
+2329	Creo que teño sarampelo
+2330	Teño a varicela
+2331	Pode que teña mononucleose infecciosa
+2332	Teño síntomas da enfermidade do bico
+2333	Creo que pillei a varíola do mono
+2334	Non estou seguro, pero creo que teño sarampelo
+2335	Sentoume mal o tratamento
+2336	Sentoume fatal a medicación
+2337	A vacina da gripe deume reacción
+2338	Deume reacción a vacina do Covid
+2339	Vacineime e agora teño o brazo inchado
+2340	O medicamento que me receitaron estame dando efectos secundarios
+2341	Este medicamento deume reacción
+2342	Tomei unha medicina por erro
+2343	Infectóuseme a ferida despois da cirurxía
+2344	Infectáronse os puntos
+2345	Deulle un golpe de calor
+2346	Deume unha insolación
+2347	Non se hidratou o suficiente e deulle unha insolación
+2348	Estaba argallando o enchufe e deulle unha descarga eléctrica
+2349	Electrocutouse tratando de amañar un enchufe
+2350	Ten síntomas de hipotermia
+2351	A súa temperatura corporal é moi baixa
+2352	Ten a temperatura moi baixa, creo que ten hipotermia
+2353	Ten frieiras nos pés
+2354	Teño frieiras nas mans e nas orellas
+2355	Deume unha reacción alérxica o medicamento que tiña receitado
+2356	Creo que teño alerxia ao po
+2357	Non paro de espirrar, creo que teño alerxia ao pole
+2358	Teño alerxia aos ácaros
+2359	Estame dando unha reacción alérxica grave
+2360	Picoume unha abella e son alérxico a elas
+2361	Encóntrome mal a causa dunha sobredose de medicación
+2362	Sofre unha grave intoxicación
+2363	Teño un malestar xeral e, ademais, teño febre
+2364	Hai uns días que padezo malestar xeral
+2365	Sufro de dor crónica
+2366	Teño unha dor cutánea insoportable
+2367	Dóeme a pel pola zona do pescozo
+2368	Perdeu mobilidade de xeito repentino
+2369	Estaba ben e, de repente, notei perda de mobilidade nas pernas
+2370	Hai como catro horas que ten falta de mobilidade do brazo esquerdo
+2371	Ao mediodía comezou a notar perda de mobilidade
+2372	Dei positivo na proba de tuberculina
+2373	Fixen unha proba de tuberculina e dei positivo
+2374	Mantiven contacto cunha persoa con Covid
+2375	Estiven de festa nun grupo que deu positivo en Covid
+2376	A miña parella ten Covid
+2377	Dei positivo na proba de Covid
+2378	Fixen a proba da Covid dezanove e son positivo
+2379	Xa hai máis de dous meses que pasei o Covid e sigo tendo síntomas
+2380	Sigo con síntomas da Covid
+2381	Creo que teño Covid persistente, xa hai meses que o pasei
+2382	Ten a pel cun ton amarelo, pode que sexa bilirrubina alta
+2383	Creo que teño a bilirrubina alta
+2384	"Teño a pel amarela, creo que é algún problema coa bilirrubina"
+2385	Ten o ácido úrico polas nubes
+2386	Dóenme os xeonllos polo ácido úrico alto
+2387	Teño dor nas articulacións e creo que é por culpa do ácido úrico
+2388	Teño as articulacións inflamadas e o nivel de ácido úrico altísimo
+2389	Saíronme uns vultos na axila 
+2390	Teño un vulto na lingua
+2391	Saíume un nódulo no pescozo
+2392	Atopei varios vultos nos ganglios das axilas
+2393	Estou preocupada por uns vultos que teño nos ganglios
+2394	Creo que teño un nódulo na parte da lingua
+2395	Caín e agora teño un hematoma moi grande na perna
+2396	Creo que teño algún problema coas plaquetas
+2397	O meu nivel de plaquetas é moi baixo
+2398	Teño varios negróns e estou levando tratamento anticoagulante
+2399	Saíronme grans por todo o corpo
+2400	Teño unhas ronchas na pel
+2401	Comezaron a darme saloucos hai unhas seis horas
+2402	Levo con saloucos case un día
+2403	Quedei adormecido de xeito moi brusco
+2404	Pensei que morrera, quedou adormecido bruscamente
+2405	Deulle unha síncope
+2406	Xa sufriu varias síncopes hai uns anos
+2407	Sufriu unha lipotimia cando ía no tren
+2408	A ferida que fixen non para de sangrar
+2409	Teño unha pequena hemorraxia no brazo
+2410	Levou un corte e está sangrando bastante
+2411	Ten unha hemorraxia na parte interior da perna
+2412	A miña muller está embarazada e saíronlle unhas manchas na cara
+2413	Teño unhas manchas polas mans e polos brazos
+2414	Creo que teño algún problema de suor
+2415	Meteuse na piscina no inverno e pillou hipotermia
+2416	A súa temperatura é moito máis baixa do normal, ten hipotermia
+2417	Primeiro mareouse e despois perdeu o sentido
+2418	Perdeu o coñecemento e caeu ao chan
+2419	Teño dificultade para apoia-las pernas 
+2420	Teño calafríos e algo de febre
+2421	Teño unha dor moi forte no peito
+2422	Padezo de problemas de corazón
+2423	Creo que teño algún problema co marcapasos
+2424	Dóeme moito o brazo esquerdo
+2425	Sinto coma se me punzasen no peito
+2426	Teño os pés moi inchados
+2427	Levanteime coas mans moi inchadas
+2428	Padezo do corazón
+2429	Estame a dar un infarto
+2430	Creo que me está a dar un infarto
+2431	Levo con taquicardia toda a mañá
+2432	A miña nai leva con taquicardia un par de horas
+2433	O meu pai ten unha perna inchada
+2434	Teño todo o corpo coma inflamado e cústame respirar
+2435	Ten a tensión alta
+2436	Hoxe ten a tensión moi baixa
+2437	Dóeme a variz da perna
+2438	Tiven unha subida de tensión
+2439	Estou con problemas de circulación
+2440	Teño os oídos taponados
+2441	Taponáronseme os oídos
+2442	Estou a sangrar pola orella
+2443	Supúrame un oído
+2444	Teño molestias nos oídos
+2445	Escoito ruídos na cabeza
+2446	Escoito algo zumbar no oído
+2447	Teño dor nasal
+2448	Deime unha hostia na orella
+2449	Levei unha hostia nos fociños e creo que rompín algo
+2450	O meu fillo non oe ben desde hai uns días
+2451	Preciso que me retiren a vía
+2452	Quero queimar unha verruga
+2453	Teño dor na boca
+2454	Dóeme moito o ollo esquerdo
+2455	Pícanme os ollos
+2456	Teño os ollos superirritados
+2457	Creo que teño conxuntivite
+2458	Saíume un tirizó nun ollo
+2459	Penso que me saíu un tirizó no ollo dereito
+2460	Teño un toromelo
+2461	Saíume un orizó no ollo
+2462	Teño un ollo moi inchado e dóeme ao pestanexar
+2463	Teño dor nun oído
+2464	Levei un golpe no nariz
+2465	Creo que rompín a napia
+2466	Dei unha boa hostia no fociño
+2467	Non escoito ben polo oído dereito
+2468	Necesito facer unha limpeza de oídos
+2469	Metín un tapón no oído e quedóuseme atrancado
+2470	Estou moi, moi mareada
+2471	Rompín a cartilaxe da orella
+2472	Teño que lava-los oídos
+2473	Necesito desatasca-lo oído
+2474	Quero que desobstrúan o meu oído
+2475	Metéuseme algo pola orella
+2476	Rompín o nariz
+2477	Rompín a cartilaxe do nariz
+2478	Teño xordeira no oído esquerdo desde onte
+2479	Escoito un asubío
+2480	Escoito algo zoar nos oídos e é moi molesto
+2481	Escoito un pito no oído esquerdo
+2482	Teño un tapón nos oídos
+2483	Teño moita cera no oído
+2484	Problemas auditivos
+2485	Botei sangue polo oído
+2486	Teño a orella rota
+2487	Levo un día escoitando un asubío moi molesto
+2488	Teño o tímpano roto
+2489	Penso que teño infección de oído
+2490	Sinto un proído moi forte no oído
+2491	Teño a orella coma adormecida
+2492	Entroume algo polo oído
+2493	Teño mareos
+2494	Pois mira, levei un golpe co balón na orella e agora escoito algo zoar
+2495	Teño unha ferida dentro do oído e estame a supurar
+2496	Teño mocos no oído
+2497	Non escoito ben
+2498	Estou perdendo audición
+2499	Oio mal desde onte
+2500	Teño como sensación de te-lo oído taponado
+2501	Poderías dicirme as novas de onte?
+2502	Dime as noticias de antonte, anda
+2503	Quero que reproduzas o resumo do noticiario desta semana
+2504	Dime as noticias de onte
+2505	Quero saber as noticias de onte
+2506	Podes resumirme as últimas novas?
+2507	Pasou algo relevante estes días?
+2508	Cóntame que botou o telexornal
+2509	Que carallo pasou onte? vin algo no noticiario da televisión
+2510	Ando algo desconectada, podes pórme ao día?
+2511	Non me decatei do incidente do luns, podes dicirme que pasou?
+2512	Que está a pasar hoxe?
+2513	Leme as novas de hoxe, por favor
+2514	Que novas hai hoxe?
+2515	Pódesme facer un resumo do máis relevante destes días?
+2516	Non puiden escoitar o parte, podes darme as novas de hoxe?
+2517	Que dixeron hoxe no telexornal?
+2518	Quero escoitar o boletín do pasado domingo, grazas
+2519	Podemos escoitar as principais noticias de hoxe?
+2520	Failles o favor de pór o resumo do telexornal de hoxe
+2521	Non teño novas de hoxe, podes buscar información?
+2522	Quero volver a escoitar o noticiario do xoves, podes pórmo?
+2523	Que noticias atopas sobre Vilalba?
+2524	Cales son as novas en Verín?
+2525	Podes pór o parte da radio galega?
+2526	Que está a pasar en Lugo?
+2527	Queremos saber as novas de Santiago de Compostela, que non escoitamos o telexornal
+2528	Podes reproducir os titulares máis importantes da comarca de Ourense?
+2529	Ola, dáme as noticias deste sábado en Vigo
+2530	Que aconteceu en Pontevedra antonte?
+2531	Dáme os sucesos de Lugo desta semana
+2532	Quero saber as novas da Coruña o sábado
+2533	Podes repetir o parte da provincia de onte?
+2534	Reproduce o telexornal galego de hoxe
+2535	Non sei que pasou onte na Mariña Lucense
+2536	Que diantres aconteceu o mércores en Ribadeo?
+2537	Podes dicirlles os sucesos máis relevantes desta semana en Viveiro?
+2538	Anda, ponlle o parte da noite a miña nai
+2539	Cales foron os sucesos en Chantada o venres, sabes?
+2540	Houbo algún suceso importante en Fisterra nos últimos días?
+2541	Dáme as novas máis importantes
+2542	Pon as noticias
+2543	Quero que me digas os principais titulares do noticiario
+2544	Andan dicindo no telexornal que pasou algo grave, que sabes diso?
+2545	Dáme as novas
+2546	Quero escoitar o parte
+2547	Pódesme pór o boletín informativo?
+2548	Pon o noticiario
+2549	Pon o televisor para escoitar o noticiario das seis
+2550	Levo todo o día desconectada
+2551	Quero informarme
+2552	Quero estar ao día das novas
+2553	Estou totalmente desconectado
+2554	Podes informarme?
+2555	Ponme ao día
+2556	Podes reproducir o resumo das noticias?
+2557	Le as noticias máis importantes nos principais diarios
+2558	Dime os titulares das noticias de hoxe en Galicia
+2559	Que novas traes?
+2560	Algunha noticia importante?
+2561	Leme os titulares de hoxe no Faro de Vigo
+2562	Dime as principais noticias na Voz de Galicia
+2563	Que se contan hoxe no Faro de Vigo?
+2564	Dime as novas no Diario de Pontevedra
+2565	Leme os titulares de onte no Progreso
+2566	Cales son os principais titulares no Progreso de Lugo?
+2567	Le os titulares de La Región
+2568	Dime os titulares do Atlántico
+2569	Le os titulares de hoxe no Diario de Arousa
+2570	Con que noticias se abre en El Ideal Gallego
+2571	Leme as novas na Opinión
+2572	Le as novas dos principais diarios galegos
+2573	Con que abre hoxe o Diario de Ferrol?
+2574	Le as novas no Diario de Bergantiños
+2575	Novas do Correo Gallego
+2576	Con que abre o Faro de Vigo?
+2577	Dime os titulares do Diario Nós
+2578	Cales son as novas no Atlántico de Vigo?
+2579	Quero que leas os titulares do periódico Faro de Vigo
+2580	Le os titulares da Voz de Galicia
+2581	Le as novas da Voz de Galicia
+2582	Le as noticias no Diario de Pontevedra
+2583	Que noticias trae hoxe o Progreso?
+2584	Le os titulares no Diario de Lemos
+2585	Quero saber as novas do Xornal de Lemos
+2586	Le as noticias no Xornal de Lugo
+2587	Quero que leas o Progreso
+2588	Que novas hai no Diario de Támega?
+2589	Le os titulares de portada do Faro
+2590	Le a portada da Voz
+2591	Dime as noticias coas que abre hoxe a Voz
+2592	Dime as noticias coas que se abre hoxe no Faro
+2593	Quero saber as novas no Progreso de Lugo
+2594	Dime as novas no Diario Nós
+2595	Con que abre o Correo Gallego?
+2596	Le as noticias diario Atlántico
+2597	Noticias no Faro de Vigo
+2598	Novas na Voz de Galicia en Vigo
+2599	Dime as principais novas do diario La Región de Ourense
+2600	Quero escoitar as novas que trae La Región
+2601	Quero falar coa miña filla
+2602	Non teño moitos azos. Podes chamar o meu neto a ver se nos afoutamos?
+2603	Quero facer unha videochamada coa miña familia
+2604	Chama a meu pai, por favor
+2605	Poderías chamar a miña neta?
+2606	Boas, quero falar cos meus netos
+2607	Como fago para chamar a miña nai?
+2608	Fai unha vídeo co meu irmán
+2609	Agora quero que falemos coa miña muller, por favor
+2610	Podes montar unha conferencia co meu neto e coa miña filla?
+2611	Por favor, comeza unha videochamada cos meus pais
+2612	Chama á miña avoa
+2613	Quero que fagas unha videochamada co meu avó
+2614	Podes chamar por teléfono a miña filla?
+2615	Quero facer unha chamada ao hospital
+2616	Gustaríame facer unha videochamada
+2617	Dálle un toque a meu pai, faime o favor
+2618	Podo falar co meu primo?
+2619	Chama á avoa
+2620	Quero falar co meu médico
+2621	Chama a miña médica, por favor
+2622	Quero que chames unha ambulancia
+2623	Chama a urxencias
+2624	O meu fillo debe andar aparvado, dálle un toque, por favor
+2625	Non sei onde anda o meu móbil, podes chamarme?
+2626	Atópome mal, podes avisar a alguén?
+2627	Caín e deime un golpe, avisa a urxencias
+2628	Ando cun mareo do demo, avisa o médico
+2629	Podes facer unha vídeoconferencia co meu fillo e coa miña filla?
+2630	Chama o cento doce
+2631	Avisa o cento doce, que me fixen dano
+2632	Teño molestias no peito e quedo sen folgos todo o tempo. Podes chamar o cento doce?
+2633	Dálle un toque a miña nai, que non sei nada dela desde a mañá
+2634	Afociñei na cociña, podes avisar a alguén?
+2635	Quero que chames o cento doce
+2636	Quero falar coa miña tía
+2637	Ando medio apaiolada, avisa a alguén
+2638	Quero chamar
+2639	Podes chamar o teléfono da miña neta?
+2640	Fai unha chamada
+2641	Faille unha chamada a miña filla, por favor
+2642	Levo todo o día aloulada. Podes chamar a medica?
+2643	Pódesme dar un toque?
+2644	Fai unha videochamada aos meus avós
+2645	Podes chamar a unha ambulancia?
+2646	Quero facer unha chamada
+2647	Chama á miña filla
+2648	Podes chamar a meu pai?
+2649	Quero facer unha videochamada
+2650	Podes chamar por vídeo a miña neta?
+2651	Quero facer unha chamada por vídeo
+2652	Pódesme facer unha chamada, pero con vídeo?
+2653	Fai unha videochamada desas
+2654	Quero falar por vídeo coa miña filla
+2655	Faime unha chamada con vídeo co meu neto
+2656	Quero facer de novo unha chamada
+2657	Quero que me fagas unha chamada desas con vídeo
+2658	Chama a mamá
+2659	Chama o papá
+2660	Chama ao meu fillo
+2661	Por favor, chama ao Museo do Videoxogo
+2662	Chama o un un dous
+2663	Chama a Xulia
+2664	Podes chamar a Breixo?
+2665	Ola, quero que chames a Noa, por favor
+2666	Quero falar co meu tío
+2667	Quero falar co meu fillo
+2668	Telefona a Carlos
+2669	Chama a Carmiña
+2670	Fai unha chamada a Amparo
+2671	Faime unha chamada, queres?
+2672	Chama a Pepe
+2673	Chama a Javier
+2674	Quero que chames a Andrés
+2675	Chama a Ismael
+2676	Fai unha chamada ao número do asistente
+2677	Podes chamar o asistente persoal?
+2678	Chama ao fisioterapeuta
+2679	Chama á barbería
+2680	Podes chamar a Benigno?
+2681	Faille unha chamada a Xoaquín
+2682	Quero falar co pintor, chama a Mario pintor
+2683	Fai unha videochamada polo grupo de A Resistencia
+2684	Quero que chames a Marta
+2685	Faille unha videochamada a miña irmá
+2686	Fai unha videochamada, podes?
+2687	Quero que chames por vídeo a Yolanda
+2688	Chama a Alberte
+2689	Inicia unha videochamada con Xosé
+2690	Inicia unha videochamada desas
+2691	Empeza unha videochamada co meu neto
+2692	Faille unha videochamada á miña neta
+2693	Faille unha videochamada a miña avoa
+2694	Inicia unha videochamada co meu avó
+2695	Inicia unha videochamada co avó Antón
+2696	Quero que fagas unha videochamada a miña avoa Clara
+2697	Podes chamar a Consuelo?
+2698	Chama a Catuxa por aquí
+2699	Faille unha videochamada a Paula
+2700	Quero que chames a Tamara
+2701	Chama o meu doutor
+2702	Preciso que chames a enfermeira
+2703	Podes chamar o meu médico
+2704	Podes chamar o meu enfermeiro
+2705	Necesito que fagas unha chamada a miña doutora
+2706	Chama ao primo
+2707	Chama á tía Loli
+2708	Quero que chames o tío Xosé
+2709	Chama unha ambulancia
+2710	Fai unha videochamada con Mari Luz
+2711	Quero que chames a Xorxe
+2712	Chama ao móbil de Xosé Luis
+2713	Chama a miña doutora
+2714	Dálle un toque a Marta
+2715	Faille unha videochamada a Carlos
+2716	Chama a meu avó
+2717	Dálle un toque a meu avó
+2718	Podes chamar de volta a Martín?
+2719	Devólvelle a chamada a Antía
+2720	Podes chamar a Mónica?
+2721	Chama polo grupo da familia
+2722	Chama polo grupo de curmáns
+2723	Chama polo grupo dos meus pais
+2724	Faille unha videochamada a miña tía
+2725	Quero que lle fagas unha videochamada a meu avó
+2726	Chama a meu avó Xoán
+2727	Chama a Xacobe
+2728	Chama ao salón de peiteado para pedir unha cita
+2729	Faille unha chamada a Rosalía
+2730	Podes chamar a Lúa?
+2731	Chámame aí a Aldán móbil
+2732	Quero que chames ao teléfono da avoa
+2733	Fai unha videochamada polo grupo de Whatsapp da familia
+2734	Chama á prima Xana
+2735	Márcame o número da Xosefa
+2736	Márcame aí á casa de Denis
+2737	Márcame o teléfono do meu neto Xián
+2738	Podes facer unha videochamada coas miñas netas?
+2739	Quero que chames polo grupo de irmáns
+2740	Chama polo grupo de irmás
+2741	Chama a miña irmá
+2742	Chama a meu pai
+2743	Chama a miña filla Ánxela
+2744	Chama a miña neta Xulia
+2745	Inicia unha videochamada coa familia
+2746	Chamada con vídeo a meu irmán
+2747	Márcame ao centro de saúde
+2748	Márcame o teléfono do hospital
+2749	Márcame o móbil da miña doutora
+2750	Márcame o teléfono do meu médico de cabeceira
+2751	Quero enviar unha mensaxe
+2752	Podes enviarlle unha mensaxe ao meu fillo avisando de que xa estou na casa?
+2753	Avisa ao meu neto de que xa estou dispoñible
+2754	Podes enviar unha mensaxe?
+2755	Dille á miña filla que me chame
+2756	Podes escribirlle para avisar de que xa chegou o paquete?
+2757	Dille ao meu fillo que xa chegaron os resultados da análise
+2758	Envíalle unha mensaxe á miña avoa dicindo que a boto de menos
+2759	Mándalle unha mensaxe ao avó para que me chame en canto chegue, por favor
+2760	Quero que lle digas que non vou ir, podes?
+2761	Gustaríame que enviases unha mensaxe para toda a familia dicindo que xa estou de volta
+2762	Podes preguntarlle por mensaxe á avoa se pode vir a xantar o domingo?
+2763	Dille a Uxía por mensaxe que xa atopei o reloxo
+2764	Podes enviar a seguinte mensaxe para Martiño? Xa teño listo o teu encargo
+2765	Dille a Rosalía que me pasarei mañá
+2766	Dille a Xoel que o seu irmán non apareceu en todo o día
+2767	Podes enviarlle unha mensaxe a Neves?
+2768	Quero que envíes esta mensaxe a Vítor: lémbrate de comprarme o que che pedín
+2769	Poderías dicirlle a Sabela que xa recibín a súa mensaxe?
+2770	Podes dicirlle a Sía e Xoan que me pasarei pola súa casa mañá?
+2771	Avisa a papá que non atopo por ningures a carta do carallo
+2772	Dille á mamá que merquei eu os agasallos
+2773	Avisa a Xandre coa seguinte mensaxe: o libro xa está dispoñible
+2774	Quero que envíes unha mensaxe, podes?
+2775	Dille isto a Dores: gustaríache vir a tomar o café o mércores pola tarde comigo?
+2776	Pregúntalle a meu pai se quere que ceemos xuntos o xoves
+2777	Podes dicirlles aos meus fillos que me avisen cando estean saíndo?
+2778	Envía unha mensaxe ao grupo de amigos dicindo que ao final si que podo quedar
+2779	Envíalle unha mensaxe á miña tía
+2780	Envíalle esta mensaxe aos meus avós: xa rematei os exames e todo aprobado
+2781	Envíalle esta mensaxe aos meus avós: aprobei tódalas materias!
+2782	Quero dicirlle algo a papá
+2783	Quero enviar unha mensaxe a Diego
+2784	Podes recordarlle a Ánxela nunha mensaxe que ten que enviar a lista de convidados?
+2785	Envía unha mensaxe ao papá e á mamá
+2786	Podes enviar un aviso dicindo que xa volvín do médico e todo saíu ben?
+2787	Pregúntalle a meu neto se cando o deixou foi onte ou antonte
+2788	Envía unha mensaxe a tódolos meus contactos
+2789	Pregúntalle a Eloi que cando tiña o exame
+2790	Pregúntalle ao meu neto cando volve de visita
+2791	Pregúntalle á miña neta cando vén por aquí
+2792	Podes preguntarlle á María cando volve?
+2793	Envía unha mensaxe para preguntar se chegou ben
+2794	Podes preguntarlle a miña nai se vai todo ben?
+2795	Envíalle un aviso a meu pai
+2796	Podo enviar unha mensaxe?
+2797	Quero enviar un aviso
+2798	Quérolle enviar unha nota ao meu irmán
+2799	Podes avisar o meu pai?
+2800	Quero enviar unha notificación
+2801	Avisa a Laura
+2802	Pódesme enviar unha mensaxe?
+2803	Dille a meu neto que o boto de menos
+2804	Dille a miña avoa que a quero moito
+2805	Dille a miña neta que moito ánimo
+2806	Quero que envíes unha nova mensaxe
+2807	Envía unha mensaxe
+2808	Dille a meu neto isto: non quero que volvas irte sen avisar
+2809	Avisa a Alfonso
+2810	Envía unha mensaxe ao Papá, a ver se así
+2811	Dille aí que non quero que volva a marchar sen a comida
+2812	Podes enviar unha mensaxe dicindo que chego en vinte minutos?
+2813	Quero que envíes unha mensaxe á mamá
+2814	Envíalle unha nova mensaxe ao meu fillo
+2815	Envíalle unha mensaxe á miña filla
+2816	Envía unha mensaxe á asociación videoxogo punto gal
+2817	Podes enviar unha nova mensaxe a videoxogo punto gal?
+2818	Envía unha mensaxe a Guillerme
+2819	Avisa a Carmen de que xa pode pasarse a recoller a súa saia
+2820	Dille a Xoan que o pedido está rematado
+2821	Avisa de que chego en nada
+2822	Envíalle unha mensaxe á miña muller avisando de que hai tráfico
+2823	Avisa a Luís de que xa estou chegando
+2824	Envíalle unha mensaxe ao meu marido dicindo que pode chamarme cando queira
+2825	Avisa a Diego de que hai unha delonga de quince minutos
+2826	Di polo grupo que eu chamo en canto chega a casa
+2827	Dille a Rebeca que xa saín
+2828	Escríbelle a Aida dicindo que ao final quedamos ás oito
+2829	Faime o favor de escribir a Sofía e dille que levo eu bebida
+2830	Avisa a meu pai de que o recollo en vinte minutos
+2831	Avisa a miña nai de que saín agora de Pontevedra
+2832	Saio agora, avisa polo grupo dos meus pais
+2833	Avisa polo grupo da familia que xa baixamos do avión
+2834	Envía unha mensaxe polo grupo de amigos dicindo que me encargo eu de reservar o restaurante
+2835	Podes avisar a Teresa de que xa collín o coche?
+2836	Dille a Uxía que cando chegue falamos con calma
+2837	Dille a Xoana que agora non podo falar
+2838	Escríbelle a Brais esta mensaxe: o tren vai con atraso e chegarei dez minutos tarde
+2839	Avisa a Breixo de que xa podo falar
+2840	Pregúntalle a Breogán que a que hora quedamos
+2841	Pregunta polo grupo da familia: onde é a cea?
+2842	Pregunta polo grupo de amigos que a que hora quedamos
+2843	Respóndelle a Guillerme que OK, que me parece ben
+2844	Respóndelle a Iago que non o entendo ben
+2845	Responde polo grupo de familia confirmando a asistencia
+2846	Respóndelle a Pablo cunhas risas
+2847	Avisa a Noe de que chego en quince
+2848	Estou nun atasco, avisas polo grupo da familia?
+2849	Quero que lle digas a Alex que conte comigo para o partido
+2850	Podes avisar polo grupo de que xa estou de camiño?
+2851	Teño algunha mensaxe?
+2852	Teño mensaxes sen ler?
+2853	Teño algunha mensaxe do avó?
+2854	Teño algunha mensaxe da avoa?
+2855	Teño algunha mensaxe de Sofía?
+2856	Teño algunha mensaxe de David?
+2857	Dime que mensaxes teño no Whatsapp sen ler
+2858	Leme as novas mensaxes
+2859	Teño algún aviso?
+2860	Teño algunha notificación?
+2861	Dime as notificacións non lidas
+2862	Quero que me díga-las notificacións que teño
+2863	Leme a última mensaxe
+2864	Volve le-la mensaxe da miña filla
+2865	Quero que léa-las novas mensaxes do Whatsapp
+2866	Teño algunha notificación nova?
+2867	Di os avisos que teño sen ver
+2868	Dime que avisos teño sen ver
+2869	Leme as mensaxes que teño sen ver
+2870	Algunha mensaxe nova?
+2871	Algunha notificación?
+2872	Volve ler esa mensaxe
+2873	Ai, non escoitei ben. Volve le-la mensaxe
+2874	Leme as mensaxes que teño de onte
+2875	Que mensaxes novas hai hoxe?
+2876	Teño algunha mensaxe nova no grupo da familia?
+2877	Leme as mensaxes que teño de Luísa
+2878	Leme as mensaxes novas do grupo do traballo
+2879	Dime se hai mensaxes novas
+2880	Algunha notificación sen revisar?
+2881	Teño algunha mensaxe sen escoitar?
+2882	Dime se hai avisos sen revisar
+2883	Hai avisos sen revisar?
+2884	Teño algún aviso novo?
+2885	Teño algunha mensaxe do meu fillo?
+2886	Algunha mensaxe da miña filla?
+2887	Leme a última mensaxe de Adelaira
+2888	Que di Alicia polo grupo de clase?
+2889	Leme a mensaxe de Catuxa de onte
+2890	Quero escoitar de novo a última mensaxe de Icía
+2891	Ponme de novo a anterior mensaxe de André
+2892	Algunha mensaxe nova de Anxo?
+2893	Teño algunha mensaxe ser escoitar polo grupo do ximnasio?
+2894	Reproduce as mensaxes novas que teña
+2895	Reproduce as mensaxes novas que teña no grupo da familia
+2896	Quero escoita-las mensaxes sen revisar
+2897	Quero escoita-la última mensaxe de Breixo
+2898	Ponme as últimas mensaxes de Xan
+2899	Dixo algo Roi polo grupo?
+2900	Hai algunha mensaxe de Lois?
+2901	Leme a última mensaxe de Alexandre do grupo de 'Cativada'
+2902	Leme o último que dixo Eloi, fai o favor
+2903	Quero escoitar de novo as mensaxes de onte de Zeltia
+2904	Algunha mensaxe nova de Naia?
+2905	Que notificacións teño ser revisar?
+2906	Que notificacións aínda non escoitei?
+2907	Algunha notificación desde onte?
+2908	Algunha mensaxe nova desde hoxe pola mañá?
+2909	Dime se teño algunha notificación nova desde onte
+2910	Dime se teño algunha mensaxe nova desde hoxe ao mediodía 
+2911	Que avisos teño?
+2912	Dime se teño algún aviso sen revisar
+2913	Dime se Brais dixo algo polo grupo da familia
+2914	Enviou Iago algunha mensaxe polo grupo dos primos?
+2915	Que dixo Xoel onte polo grupo de 'Rapazada'?
+2916	Dime que me dixo onte Olalla por mensaxe
+2917	Leme a mensaxe que me enviou esta mañá Helena
+2918	Quero escoita-las mensaxes sen ler
+2919	Quero escoita-las novas mensaxes
+2920	Teño mensaxes sen escoitar?
+2921	Dime se teño algunha mensaxe sen escoitar
+2922	Envioume algún aviso Denís?
+2923	Envioume algún aviso importante o meu fillo?
+2924	Envioume algo a miña filla?
+2925	Teño algunha mensaxe da miña neta?
+2926	Enviáronme algo os meus netos por mensaxe?
+2927	Dime se teño algunha mensaxe nova das miñas netas
+2928	Que me dixo onte Carme por mensaxe?
+2929	Envioume o aviso Xela?
+2930	Algún aviso de Xavi?
+2931	Leme as mensaxes de onte de Martiño
+2932	Quero escoita-las mensaxes desta mañá de Nuno
+2933	Dime que mensaxes teño sen ler
+2934	Dime que mensaxes teño ser revisar
+2935	Dime se teño algún aviso non visto
+2936	Algún aviso que non revisase xa?
+2937	Dime os avisos novos
+2938	Quero escoita-las novas mensaxes de Flavia
+2939	Volve le-las últimas mensaxes de Catuxa
+2940	Quero escoita-la mensaxe de Artai polo grupo 'Camaradas'
+2941	Leme as novas mensaxes do grupo
+2942	Pódesme le-las mensaxes novas?
+2943	Hai algunha mensaxe sen ler?
+2944	Hai algún aviso sen revisar?
+2945	Dime se teño avisos novos
+2946	Que di Xoel polo grupo?
+2947	Que di Mariña? Leme a mensaxe
+2948	Que está escribindo Noa polo grupo?
+2949	Leme as mensaxes que me está a escribir Xoel
+2950	Que está a dicir Paulo por mensaxe?
+2951	Leme a mensaxe que acaba de chegar
+2952	Que mensaxe acaba de chegar?
+2953	Leme as mensaxes novas da última hora
+2954	Quero escoitar tódalas mensaxes de onte
+2955	Que me escribiu onte Xavi?
+2956	Dime que escribiu onte Catuxa
+2957	Algún aviso que non escoitase xa?
+2958	Teño algún aviso do meu pai?
+2959	Teño algún aviso do médico?
+2960	Algún aviso da taxista?
+2961	Teño algún aviso da médica?
+2962	Teño algunha mensaxe da doutora?
+2963	Dime se teño algún aviso do doutor
+2964	Avisoume xa o condutor?
+2965	Xa me avisou a condutora?
+2966	Teño algunha notificación da miña médica?
+2967	Teño algún aviso do hospital?
+2968	Hai algunha mensaxe nova do hospital?
+2969	Quero saber se teño mensaxes do médico
+2970	Dime se hai mensaxes da médica
+2971	Teño que deixar de xogar xa, manda unha mensaxe aos meus compañeiros informándoos de que me desconecto
+2972	Envía polo grupo do xogo que teño que parar un chisco
+2973	Pregunta aos meus compañeiros se algún lle apetece xogar un pouco
+2974	Pregunta que quen se anima a botar unha partida
+2975	Envía unha mensaxe preguntando se hoxe ás sete alguén pode xogar
+2976	Avisa o meu equipo de que teño que desconectarme quince minutos
+2977	Envía un aviso de que xa volvín á partida
+2978	Avisa a Xurxo de que teño que para o xogo un intre, agora volvo
+2979	Avisa os meus compañeiros de que non podo xogar máis
+2980	Teño que parar de xogar, avisa a todos
+2981	Apaga a consola
+2982	Apágame aí a videoconsola
+2983	Xa non quero xogar máis, apaga todo, por favor
+2984	Podes apagar a PlayStation?
+2985	Desconecta a Xbox
+2986	Xa xoguei dabondo, apaga un pouco a consola Nintendo Switch
+2987	Apágalle a consola ao meu fillo
+2988	Desconecta a videoconsola
+2989	Faime o favor de desconectarlle a Play 5
+2990	Apaga a Play
+2991	Acende a Play, que toca xogar
+2992	Acende a Xbox
+2993	Acende a Nintendo 
+2994	"Inicia o videoxogo ""El Conde Lucanor"""
+2995	Acende a consola e inicia o xogo Arcano
+2996	Ponme O Misterio das Sete Pezas na videoconsola
+2997	Quero xogar o PlanetBase, posmo?
+2998	Acende e comeza unha partida en Catequesis
+2999	Quero xogar ao xogo: As Enerxías Renovables
+3000	Acéndeme aí a videoconsola, veña
+3001	Para o xogo
+3002	Pon o xogo en pausa
+3003	Pausa o xogo un momento
+3004	Pausa o xogo, que teño que coller unha chamada
+3005	Estou canso, pon a PlayStation 5 en suspenso
+3006	Pon o videoxogo en pausa
+3007	Quero parar de xogar un pouco
+3008	Quero pausar o videoxogo
+3009	Párame un intre o videoxogo
+3010	Para un anaco o xogo
+3011	Continúa co xogo
+3012	Retoma o PlanetBase
+3013	Continúa co Misterio das Sete Pezas
+3014	Retoma a partida na Play
+3015	Continúa co xogo que parei
+3016	Dálle lume ao xogo
+3017	Dálle gas á videoconsola
+3018	Continúa coa partida
+3019	Retoma a partida, por favor
+3020	Podes continuar coa partida que deixei parada?
+3021	Cando é este ano a Reconquista de Vigo?
+3022	Que día é o entroido de Xinzo de Limia?
+3023	Cando é a Feira do Cocido de Lalín?
+3024	Como cadra a Arribada este ano?
+3025	Dime en que cadra este ano o Corpus Christi de Ponteareas
+3026	Cando é a Rapa das Bestas de Sabucedo?
+3027	Quero saber cando é o festival de Ortigueira
+3028	Dime cando son as Festas do Apóstol en Santiago
+3029	Que días son o entroido de Laza?
+3030	Cando empeza o Arde Lucus?
+3031	Que día comeza o entroido de Verín
+3032	Quero saber como cadran este ano as Festas da Ascensión, por favor
+3033	Que día comeza a Festa do Polbo en Carballiño?
+3034	Dime que día empeza a Festa da Ostra en Arcade
+3035	Cando é a Feira do Bonito de Burela?
+3036	Que día remata a Festa do Carneiro ao Espeto de Moraña?
+3037	Cando remata a Feira do Cocido en Lalín?
+3038	Como cadra este ano o entroido de Laza?
+3039	Cando se vai facer a Festa da Lamprea?
+3040	Que día e a Maruxaina?
+3041	Cando empeza a Romaría Viquinga de Catoira?
+3042	Cando é a Festa Viquinga en Catoira?
+3043	Dime cando é a Feira do Viño do Rosal
+3044	Desde cando e ata cando son as Danzas Ancestrais de Darbo?
+3045	Cando é a Festa do Marisco este ano?
+3046	Que día é a Festa do Xamón na Cañiza?
+3047	Cando son as festas de Bouzas?
+3048	Cando é o Gran Premio de Carrilanas de Esteiro?
+3049	Quero saber cando é o Albariño?
+3050	Cando é o San Froilán?
+3051	Dime que día empeza o entroido de Verín
+3052	A Romaría da Nosa Señora da Barca, cando é?
+3053	Como cadra o entroido de Cobres?
+3054	Dime que día é a festa grande do entroido de Laza
+3055	En que mes se celebra o Arde Lucus en Lugo?
+3056	Cando se fai a Rapa das Bestas?
+3057	Que día é a Festa do Caldo Galego de Mourente?
+3058	Que día é este ano a Festa do Ourizo de Cervo?
+3059	Quero saber a data da Festa dos Maios
+3060	Que día é o entroido de verán de Redondela?
+3061	Queremos saber como cadra a Festa do Pemento de Herbón en Padrón
+3062	Onde é a Festa do Boi?
+3063	Onde se fai a Feira Franca?
+3064	Non sei onde se fai a Maruxaina
+3065	Dime onde son as Festas de San Froilán
+3066	Onde se fai a Festa da Troita?
+3067	A Reconquista esta, onde se celebra?
+3068	En que cidade se fai a Festa do Albariño?
+3069	A Festa da Istoria, onde se fai?
+3070	Onde se fan as feiras do viño en Galicia?
+3071	Onde se fan as Festas do Monte?
+3072	Dime onde se celebra a Festa da Castaña
+3073	A Festa da Lamprea, onde se celebra?
+3074	Onde é a Arribada?
+3075	Quero saber onde se fai a Festa do Choco
+3076	Dime onde ten lugar a Festa do Polbo
+3077	Onde se fai a Rapa das Bestas?
+3078	Onde se celebra a Festa do Albariño?
+3079	Dime onde se fan as festas de Bouzas
+3080	Onde se celebra San Xoán na Coruña?
+3081	Como está hoxe o tráfico na A P nove dirección Coruña?
+3082	Dime se hai algún incidente na miña ruta ao traballo
+3083	Algunha incidencia na A P nove?
+3084	Dime se hai algún accidente na entre Lugo e Santiago de Compostela
+3085	Como está a estrada entre Porriño e Ourense?
+3086	Hai moita conxestión hoxe para entrar na Coruña?
+3087	Como está hoxe o tráfico para entrar en Vigo?
+3088	Hai caravana para volver a Ourense?
+3089	Hai moita retención para entrar no Grove?
+3090	Quero ir ao Barco de Valdeorras desde Chantada, algunha incidencia?
+3091	Hai retención dirección Baiona?
+3092	Como está a estrada para subir ao Cebreiro
+3093	Está cortada hoxe a A oito dirección Lugo?
+3094	Hai moita néboa na A oito agora mesmo?
+3095	Algún accidente na miña ruta para volver a casa?
+3096	Dime se hai algunha incidencia na miña ruta a casa
+3097	Dime se hai incidencias na ruta de Lugo á Coruña
+3098	Hai caravana na vía rápida para ir a Bueu?
+3099	Agora mesmo, hai tráfico entre Pontevedra e Vigo pola nacional?
+3100	Fan falla cadeas para chegar á Gudiña nestes intres?
+3101	Hoxe hai accidentes na estrada?
+3102	Dime o estado da miña ruta
+3103	Dime como está a miña ruta ao traballo
+3104	Dime como está a miña ruta de volta a casa
+3105	Hai incidencias na estrada de Coruña a Camariñas?
+3106	Hai atasco na entrada de Porriño?
+3107	Dime as incidencias nas estradas desta mañá
+3108	Como está o tráfico na A P nove?
+3109	Quero saber como está o tráfico na A P nove
+3110	Hai algunha incidencia no acceso ás praias en Porto do Son?
+3111	Como é o tráfico de Vigo a Nigrán nestes momentos?
+3112	Actualízame sobre o tráfico nesta mañá
+3113	Infórmame de como está o tráfico hoxe
+3114	Hai algún accidente entre Santiago e Vigo pola A P nove?
+3115	Como está o tramo da estrada entre Ourense e Verín?
+3116	Dime como está o tráfico na nacional entre Lugo e Ourense
+3117	Hai moito atasco agora mesmo?
+3118	Como está hoxe o tráfico na cidade?
+3119	Como está o tráfico na Coruña?
+3120	Hai moito atasco para entrar a Santiago?
+3121	Como está o tráfico esta tarde?
+3122	Dime o estado do tráfico en Vigo
+3123	Dime o estado do tráfico en Santiago de Compostela
+3124	Quero saber como está de conxestionado o tráfico na Coruña
+3125	Dime se hai tráfico en Ourense
+3126	Como está o tráfico para chegar á praia?
+3127	Hai moita retención de camiño ao Grove?
+3128	Hai moito atasco para chegar a Ares?
+3129	Dime se hai atasco na miña ruta diaria
+3130	Dime o estado das estradas na Costa da Morte
+3131	Resérvame un taxi para mañá ás doce e media
+3132	Quero reservar un coche para o próximo luns
+3133	Pódesme reservar un taxi para o xoves ás dúas da tarde?
+3134	Quero que me recolla un taxi mañá ás nove en punto na miña casa
+3135	Resérvame un taxi para que me recolla ás cinco da tarde no meu centro médico
+3136	Esta semana teño que irlle ao médico, podes pedir que me recolla alguén o mércores as oito e corenta e cinco?
+3137	Reserva un taxi para o venres ás once e cuarto na miña casa
+3138	Fai a reserva dun taxi
+3139	Quero que cadres para que alguén me recolla
+3140	Podes facer a reserva dun coche para a miña casa?
+3141	Quero que me reserves un taxi o mércores para ir ao centro médico
+3142	Hai algún taxi dispoñible para ir agora ao centro?
+3143	Quero que reserves un taxi que me recolla no concello ás oito da tarde
+3144	Pídeme un taxi para ir mañá a Vigo ás doce e corenta e cinco
+3145	Pódesme pedir un taxi para dentro de media hora?
+3146	Resérvame un taxi para ir ao teatro esta noite
+3147	Quero reservar un coche
+3148	Quero reservar un taxi
+3149	Quero facer a reserva dun taxi para o mércores dezasete
+3150	Resérvame un taxi que me recolla ás oito e vinte para ir ao salón de peiteado
+3151	Pódesme pedir un taxi para mañá ás catro na miña casa?
+3152	Resérvame un taxi que me recolla hoxe ás tres e media no colexio
+3153	Quero facer a reserva dun coche
+3154	Podes pedir un coche que me recolla o luns ás dez para ir ao hospital?
+3155	Quero reservar o transporte ao aeroporto, podes xestionalo?
+3156	Faime a reserva dun coche para ir á estación de tren mañá ás seis da mañá
+3157	Podes facer que me recolla un condutor mañá ás tres da tarde?
+3158	Quero que fagas a reserva dun chofer para o mércores
+3159	Faime unha reserva nos taxis
+3160	Quero reservar un taxi para o domingo
+3161	Reservar taxi
+3162	Reservar coche ao hospital
+3163	Quero que me reserves un taxi para martes trece, podes?
+3164	Hai dispoñibilidade de taxis para mañá ás nove?
+3165	Teño que ir mañá ao hospital, podes facer que me recolla o condutor?
+3166	Quero que o chofer me recolla mañá ás sete e media
+3167	Necesito que a condutora me recolla no concello ás doce, podes reservar o transporte?
+3168	Quero que me recolla un coche o venres, ás cinco e media, para ir ao aeroporto de Santiago
+3169	Podes reservar un taxi para ir mañá a recoller aos meus netos?
+3170	Organiza unha nova viaxe ao hospital para mañá ás oito
+3171	Quero que organices unha viaxe ao centro médico para o martes ás catro
+3172	Quero organizar unha nova viaxe para o sábado seis de outubro 
+3173	Organiza unha viaxe o próximo mércores once, ás dez da mañá, para ir á cita médica
+3174	O mércores quero ir a Vigo, podes organizar que alguén me recolla?
+3175	Organiza unha viaxe para o xoves vinte e oito ao hospital
+3176	Organiza para que alguén me recolla o luns que vén ás sete
+3177	Podes facer que me recolla a miña condutora o próximo martes a primeira hora?
+3178	Organiza unha transporte para a estación de tren o xoves a medio día
+3179	Quero que me recolla o meu chofer hoxe ás catro da tarde, pode?
+3180	Reserva unha viaxe que me recolla no aeroporto ás cinco e cuarto
+3181	Pide un taxi para o mércores vinte e sete na miña casa
+3182	Pídesme un taxi?
+3183	Podes pedirme un taxi?
+3184	Quero pedir un taxi para dentro de dúas horas
+3185	Quero que pidas un taxi para esta noite
+3186	Pide un taxi para canto antes
+3187	Chama e pide un taxi para que me recolla mañá a primeira hora
+3188	Quero que me pidas un taxi para o sábado que vén
+3189	Pódenos pedir un taxi para esta tarde?
+3190	Pídeslle un taxi a miña nai para dentro dunha hora?
+3191	Pídelle un taxi a meu pai para dentro de tres horas
+3192	Quero un taxi en media hora
+3193	Quero que me recolla o coche nunha hora
+3194	Quero un taxi para as seis da tarde
+3195	Quero un taxi para que me recolla na praza ás oito da tarde
+3196	Reserva un taxi para hoxe ás tres e cuarto
+3197	Pide un taxi para o domingo ir ao concerto
+3198	Quero reservar un taxi para a volta do teatro
+3199	Quero reservar un taxi para cando saia do concerto
+3200	Reserva un taxi que me recolla no aeroporto, o día dez, ás once e media da mañá
+3201	Mañá vou necesitar un taxi para as doce
+3202	Teño que ir ao hospital, pídeme un taxi
+3203	Necesito que lle fagas unha chamada á miña doutora
+3204	Teño que estar na estación ás dez, pídeme un taxi canto antes
+3205	Pídeme un taxi para estar en Santiago ao mediodía
+3206	Quero que reserves un taxi
+3207	Quero que fága-la reserva dun taxi
+3208	Quero que fagas unha nova reserva de transporte
+3209	Pódesme face-la reserva dun taxi para o xoves?
+3210	Quero que reserves un taxi para o sábado trece de abril
+3211	Reserva un taxi para que me recolla ás sete da tarde na miña casa
+3212	Quero un taxi para o hospital mañá ás dez e cuarto
+3213	Pídeme un taxi
+3214	Pídeme un taxi para esta tarde
+3215	Pídeme un taxi de ida e volta ao centro
+3216	Pídeme un taxi de ida e volta ao hospital
+3217	Quero un taxi de ida e volta á Coruña
+3218	Pídeme un taxi para a volta do cine
+3219	Quero que pidas un taxi para o venres á mañá
+3220	Pide un taxi para mañá a primeira hora
+3221	Para cando tiña reservado o taxi?
+3222	Dime cando teño a reserva do coche
+3223	A que hora chega o meu taxi?
+3224	A que hora me recollen hoxe?
+3225	Dime cando me recolle hoxe o transporte
+3226	Xa non me lembro, a que hora reservei o taxi?
+3227	Dime a que hora vén o taxista
+3228	Para cando fixen a reserva para ir ao aeroporto?
+3229	A que hora me recolle mañá o taxista?
+3230	Dime a que hora teño reservado o taxi do próximo luns
+3231	A que hora me vai recoller o condutor?
+3232	Dime cando me recolle a condutora
+3233	Que día teño reservada a viaxe en taxi?
+3234	Que día reservei coa taxista?
+3235	A que hora dixen que me recollera a condutora?
+3236	Recórdame a que hora pedín o taxi mañá
+3237	A que hora vén o taxi?
+3238	Faime o favor de dicirme cando vén o condutor
+3239	A que hora chegaba o meu chofer?
+3240	A que hora vai chegar a taxista?
+3241	Como vai o taxista?
+3242	Que tal vai a taxista?
+3243	A que hora vai chegar a reserva?
+3244	Dime a que hora reservei o taxi de mañá
+3245	Dime a hora á que reservei o taxi o sábado
+3246	Que día reservei o taxi para o hospital?
+3247	Dime que día reservei o coche para ir ao hospital
+3248	Era hoxe o día no que tiña a reserva do taxi?
+3249	A reserva para ir á Coruña, era para hoxe ou para mañá?
+3250	Dime se teño algunha reserva de transporte programada
+3251	O taxi para o hospital... a que hora chegaba?
+3252	Recórdame a hora á que vai chegar o taxi
+3253	Cando chega o taxi para ir ao aeroporto?
+3254	Non recordo a que hora tiña reservada a viaxe
+3255	Era para hoxe a reserva do taxi ao hospital?
+3256	Dime os taxis que teño reservados
+3257	Teño algunha reserva de transporte?
+3258	Dime a que hora pedín o taxi
+3259	Quero saber a que hora reservaches o taxi
+3260	Dime a que hora reservaches o taxi
+3261	Quero saber para cando reserváche-lo taxi ao hospital
+3262	A que hora tiña hoxe eu o taxi?
+3263	Cando me recolle a taxista?
+3264	Cando me recolle mañá o condutor?
+3265	Dime cando me vai recolle-lo condutor
+3266	Teño reservado o taxi para o domingo?
+3267	Xa reservei o condutor para mañá?
+3268	Xa reservei o taxi para a semana que vén?
+3269	Non me lembro de se reservei o taxi ou non
+3270	Dime se teño algún taxi reservado
+3271	Cancela o taxi que tiña para o xoves vinte e sete
+3272	Cancela o taxi que teño mañá
+3273	Cancela o coche que acabo de reservar
+3274	Xa non necesito o taxi de mañá, cancélao
+3275	Quero que canceles a reserva para ir á estación do martes
+3276	Chama e cancela a reserva do taxi
+3277	Faime o favor de eliminar a reserva para ir ao hospital
+3278	Anula a reserva do taxi do mércores
+3279	Xa non preciso o taxi hoxe
+3280	Quero que canceles o taxi que reservei para o sábado
+3281	Cancela a viaxe que tiña organizada para o doce de febreiro
+3282	Cancela o condutor desta tarde
+3283	Cancela á taxista, que ao final non podo
+3284	Cancela a viaxe co taxista
+3285	Cancela a viaxe que teño para esta tarde
+3286	Anula a viaxe programada para mañá
+3287	Cancela a viaxe programada para o mércores
+3288	Quero que canceles a viaxe que programei para o venres
+3289	Xa non necesito que veña o meu condutor
+3290	Fala co chofer e dille que non é necesario que veña
+3291	Chama e cancélalle ao taxista
+3292	Dille á taxista que teño que cancelar a viaxe
+3293	Anula a reserva de viaxe que tiña programada para o xoves
+3294	Cancela a viaxe do próximo martes
+3295	Anula a reserva de traslado ao aeroporto, por favor
+3296	Cancela o traslado á estación de tren
+3297	Cancela o traslado ao aeroporto
+3298	Cancela o desprazamento ao hospital desta tarde
+3299	Anula o desprazamento que teño programado
+3300	Anula o desprazamento que tiña para o sábado desde Ourense
+3301	Quero cancelar o taxi de mañá das doce
+3302	Cancela o taxi do mércores, por favor
+3303	Anula o taxi que tiña para mañá ás dez
+3304	Podes cancelar o coche que me ía levar ao hospital
+3305	Elimina a reserva do taxi do martes
+3306	A reserva do taxi que me ía levar ao aeroporto... podes eliminala?
+3307	Cancela a reserva que acabo de facer
+3308	Cancela o taxi que acabo de pedir
+3309	Anula a viaxe que acabo de programar
+3310	Cancela as viaxes que teña programadas
+3311	Quero que canceles a viaxe que programei fai un intre
+3312	Cancélame a viaxe que acabo de programar
+3313	Xa non preciso que me recolla o condutor mañá
+3314	Xa non preciso ao taxista, que vén miña neta a buscarme
+3315	Xa non é necesario a viaxe programada, que me recolle o meu fillo
+3316	Cancela a viaxe de mañá, que non me atopo ben
+3317	Cancela a viaxe desta tarde
+3318	Quero que anules a viaxe desta tarde
+3319	Anula a viaxe de mañá, podes?
+3320	Quero que cancéle-la viaxe programada para mañá
+3321	Que é a chave tres seis cinco?
+3322	Para que serve a chave tres seis cinco?
+3323	Non sei que é isto da chave tres seis cinco, pódesmo explicar?
+3324	Podes dicirme que é a chave tres seis cinco?
+3325	Que se pode facer coa chave tres seis cinco?
+3326	Pódesme dar información sobre a chave?
+3327	Que teño que facer para utilizar a chave?
+3328	Como emprego a chave tres seis cinco?
+3329	Podes explicarme como uso a chave tres seis cinco?
+3330	Cal é o modo de emprego?
+3331	Como fago para asinar documentos coa chave tres seis cinco?
+3332	Gustaríame saber como utilizar a chave tres seis cinco
+3333	Onde podo utilizala?
+3334	Pódesnos explicar onde podemos utilizar a chave esta?
+3335	En que páxinas podo utilizar a chave?
+3336	Onde podo empregar a chave tres seis cinco?
+3337	Amósame os sitios nos que se pode asinar coa chave
+3338	Faime o favor de dicirme onde podo usar a chave esta, por favor
+3339	Quero saber que preciso para darme de alta en chave tres seis cinco
+3340	Cales son os requisitos para obter a chave?
+3341	Quero darme de alta en chave tres seis cinco
+3342	Sería tan amable de explicarme como me podo dar de alta?
+3343	Necesito axuda co proceso de alta en chave tres seis cinco
+3344	Que necesito para obtela?
+3345	En que sitios podo sacala?
+3346	Podo achegarme a unha oficina para darme de alta?
+3347	Onde podo sacar a chave tres seis cinco?
+3348	Dime as oficinas onde podo facer a chave, por favor
+3349	Sabes cales son as oficinas nas que podo obter a chave esta?
+3350	En que lugar se pode un dar de alta?
+3351	Cal é a validez da chave?
+3352	Que duración ten chave tres seis cinco?
+3353	Ten algún período máximo de tempo?
+3354	Cada canto tempo se terá que renovar?
+3355	Sabes canto tempo dura a chave tres seis cinco?
+3356	Durante canto tempo é valida?
+3357	Quero darme de baixa en chave tres seis cinco
+3358	Como fago para borrar a chave?
+3359	Non sei como eliminar a miña chave
+3360	Podes indicarme onde podemos darnos de baixa?
+3361	Non vou utilizar máis a chave esta, quero que borres os meus datos
+3362	Gustaríame cancelar a miña chave tres seis cinco
+3363	Como podo modificar os datos da chave?
+3364	Sabes se podo cambiar os meus datos?
+3365	Non sei como trocar os datos da chave tres seis cinco
+3366	Onde se pode facer unha emenda sobre os datos de chave?
+3367	Quero corrixir datos da miña chave
+3368	Equivoqueime ao cumprimentar o formulario e gustaríame modificar os datos
+3369	Quero saber como modificar o contrasinal de chave tres seis cinco
+3370	Dime que teño que facer para cambiar o contrasinal
+3371	Como fago para cambiar o contrasinal da miña chave?
+3372	Dime que preciso para trocar a clave de chave tres seis cinco
+3373	Poderíasme axudar a restablecer o meu contrasinal?
+3374	A onde teño que ir para renovar o meu acceso á chave?
+3375	Caducóuseme o contrasinal, que fago?
+3376	Non lembro o meu contrasinal
+3377	Esquecín o contrasinal da chave e non sei que facer
+3378	Xa non recordo como era a clave de acceso
+3379	Que fago se xa non me funciona a chave porque me caducou o contrasinal?
+3380	Xa non me lembro do contrasinal, como podo recuperalo?
+3381	Quen pode solicitar unha valoración do grao de discapacidade?
+3382	Podo pedilo se son galega e vivo fóra de España?
+3383	Podo solicitalo se son estranxeiro?
+3384	Unha persoa estranxeira pode solicitar a valoración da súa discapacidade?
+3385	Di quen pode pedir esta valoración
+3386	Quen pode pedir que lle recoñezan a discapacidade?
+3387	Como presento a solicitude?
+3388	Como podo solicitar a valoración do grao de discapacidade?
+3389	E como fago para pedir que me valoren?
+3390	Gustaríame iniciar o proceso de solicitude do recoñecemento
+3391	Non sei que teño que facer para comezar a tramitación do recoñecemento de discapacidade
+3392	Por onde empezo?
+3393	Onde solicito unha revisión do meu grao de discapacidade?
+3394	Quero solicitar unha revisión
+3395	Axuda para solicitar a revisión do grao de discapacidade
+3396	Onde pido a revisión da miña valoración?
+3397	Como podo actualizar o grao de discapacidade?
+3398	Poderían volver a facerme o recoñecemento?
+3399	Cando podo solicitar unha revisión?
+3400	Canto tempo ten que transcorrer para poder solicitar a revisión da miña valoración da discapacidade?
+3401	Cando podo pedir unha revisión da miña valoración?
+3402	Dime cando podo pedir unha revisión do recoñecemento
+3403	Poderías dicirnos cando podemos volver a pedir unha valoración?
+3404	Cal é o tempo establecido para poder pedir unha revisión?
+3405	Sabes como me avisan da revisión?
+3406	De que xeito me avisan das revisións?
+3407	Cando notifican os avisos de revisión?
+3408	Notifícanme cando me toque a revisión?
+3409	En que momento me van avisar se quero pedir unha revisión?
+3410	Chaman cando teña que facer a revisión?
+3411	Que é a tarxeta de discapacidade?
+3412	A tarxeta de discapacidade, vale fóra de Galicia?
+3413	Podes dicirnos a utilidade da tarxeta de discapacidade?
+3414	E para que vale esta tarxeta?
+3415	Como funciona a tarxeta de discapacidade?
+3416	Non sei que é a tarxeta de discapacidade
+3417	Extraviei a miña tarxeta de discapacidade, como podo solicitar outra?
+3418	Roubáronlle a tarxeta de discapacidade á miña filla
+3419	Roubáronme a tarxeta de discapacidade
+3420	Que fago se non atopo a miña tarxeta?
+3421	Quero pedir de novo unha tarxeta porque perdín a miña
+3422	Non dou localizado a miña tarxeta, teño dereito a unha nova?
+3423	Onde podo atopar os beneficios da tarxeta de discapacidade?
+3424	Cales son os beneficios de ter a tarxeta de discapacidade?
+3425	Onde podo empregar a tarxeta?
+3426	Cales son as vantaxes de empregar a tarxeta?
+3427	Dáme información de onde podo utilizar a tarxeta
+3428	Quero saber en que sitios podo empregar a tarxeta
+3429	Que documentación preciso para presentar a solicitude?
+3430	Podes botarme unha man coa documentación necesaria?
+3431	Necesito achegar algún tipo de documentación?
+3432	Que arquivos teño que enviar para facer a solicitude?
+3433	Podes dicirme que informes teño que presentar para a solicitude?
+3434	Cales son os documentos a presentar na sede xunto coa solicitude?
+3435	Desde cando ten validez o recoñecemento?
+3436	Canto dura o recoñecemento?
+3437	Cal é a vixencia da resolución?
+3438	Onde podo ver ata cando dura o recoñecemento?
+3439	Sabes cal é a duración?
+3440	Sabes onde vén especificada a vixencia do recoñecemento?
+3441	Que é a Tarxeta Benvida?
+3442	Para que serve a Tarxeta Benvida?
+3443	Gustaríanos saber que é a Tarxeta Benvida
+3444	Non sei para que serve esta tarxeta
+3445	A Tarxeta Benvida para que serve?
+3446	Quero saber que é a tarxeta
+3447	Quen pode beneficiarse desta axuda?
+3448	Sabes quen pode pedir esta axuda?
+3449	Non teño claro se podo pedir a tarxeta
+3450	Esta axuda económica, a quen vai dirixida?
+3451	Dime quen pode pedir a Tarxeta Benvida
+3452	Quen pode solicitala?
+3453	Cal é o prazo para a resolución da miña solicitude?
+3454	Canto tempo tardan en valorar?
+3455	Canto tempo teño que esperar por unha resposta?
+3456	Sabes cal é o tempo que tardan en resolver?
+3457	Tardan moito en enviarche a tarxeta?
+3458	Canto soen tardar en aceptar ou denegar a solicitude?
+3459	Cales son os requisitos para obter a axuda?
+3460	Non sei os requisitos de acceso á tarxeta
+3461	Que preciso para acceder á axuda?
+3462	Quero saber os requisitos para obter a Tarxeta Benvida
+3463	Que condicións son imprescindibles para que cha dean?
+3464	Dime os requisitos desta prestación, por favor
+3465	Cal e o importe da prestación?
+3466	E cantos cartos dan de axuda?
+3467	Poderías dicirme cal é o importe da axuda na miña situación?
+3468	Canto me pagarán en total?
+3469	Cal é a contía da axuda?
+3470	Non sei o diñeiro que teño dispoñible coa axuda
+3471	Cal é o prazo para presentar a solicitude?
+3472	Cando podo presentar a solicitude para obter a tarxeta?
+3473	Canto tempo teño para solicitala?
+3474	Gustaríame saber cal é o prazo no que podo pedir a Tarxeta Benvida
+3475	Sabes cal é o prazo de presentación?
+3476	E cando podo pedir a tarxeta?
+3477	Onde podo utilizar a tarxeta?
+3478	En que tendas podo mercar con ela?
+3479	Quero que me digas onde podo utilizar a Tarxeta Benvida
+3480	Cales son os establecementos onde admiten a tarxeta?
+3481	E onde podo pagar con ela?
+3482	Sabes en que sitios podo empregar a tarxeta?
+3483	Que podo mercar coa tarxeta?
+3484	Dime os produtos que se poden comprar coa Tarxeta Benvida
+3485	Dime o listado de produtos que podo mercar coa tarxeta
+3486	Que se pode comprar con ela?
+3487	A tarxeta permíteme comprar todo o que queira?
+3488	Non sei que produtos se poden mercar coa tarxeta
+3489	Cal é a vixencia da miña tarxeta?
+3490	Cando caduca a miña tarxeta?
+3491	Ata cando dura a tarxeta?
+3492	Como sei canto dura a Tarxeta Benvida?
+3493	Quero saber cando caduca a miña tarxeta
+3494	Ata cando podo empregar a miña Tarxeta Benvida?
+3495	Teño que declarar a axuda da tarxeta?
+3496	Como fago para declarar o que me dean coa tarxeta?
+3497	Esta axuda da Tarxeta Benvida, hai que declarala?
+3498	Gustaríame saber se é necesario declarar o que me dean coa tarxeta
+3499	Sabes se é necesario declarar algo na renda?
+3500	Quero saber se é preciso declarar algo desta axuda
